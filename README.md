@@ -22,6 +22,9 @@ An Awesome Collection of Urban Foundation Models (UFMs).
   - [7-Citation](#7-citation)
   - [8-Contributing](#8-contributing)
 
+
+![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.png)
+
 ## 1-Language-based Models
 
 ### Unimodal Approaches
