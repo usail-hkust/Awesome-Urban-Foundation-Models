@@ -16,34 +16,35 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
-  - [0-Survey Paper](#0-survey-paper)
-  - [1-Language-based Models](#1-language-based-models)
+  - [0. Survey Paper](#0-survey-paper)
+  - [1. Language-based Models](#1-language-based-models)
     - [Unimodal Approaches](#unimodal-approaches)
       - [Pre-training](#pre-training)
       - [Adaptation](#adaptation)
-  - [2-Vision-based Models](#2-vision-based-models)
+  - [2. Vision-based Models](#2-vision-based-models)
     - [Unimodal Approaches](#unimodal-approaches-1)
       - [Pre-training](#pre-training-1)
       - [Adaptation](#adaptation-1)
-  - [3-Trajectory-based Models](#3-trajectory-based-models)
+  - [3. Trajectory-based Models](#3-trajectory-based-models)
     - [Unimodal Approaches](#unimodal-approaches-2)
       - [Pre-training](#pre-training-2)
       - [Adaptation](#adaptation-2)
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches)
-  - [4-Time Series-based Models](#4-time-series-based-models)
+  - [4. Time Series-based Models](#4-time-series-based-models)
     - [Unimodal Approaches](#unimodal-approaches-3)
       - [Pre-training](#pre-training-3)
       - [Adaptation](#adaptation-3)
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches-1)
-  - [5-Multimodal-based Models](#5-multimodal-based-models)
+  - [5. Multimodal-based Models](#5-multimodal-based-models)
     - [Pre-training](#pre-training-4)
     - [Adaptation](#adaptation-4)
-  - [6-Others](#6-others)
+  - [6. Others](#6-others)
     - [Unimodal Approaches](#unimodal-approaches-4)
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches-2)
-  - [7-Contributing](#7-contributing)
+  - [7. Contributing](#7-contributing)
 
-## 0-Survey Paper
+
+## 0. Survey Paper
 
 [**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/)  
 
@@ -57,7 +58,10 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.png)
 
-## 1-Language-based Models
+
+
+
+## 1. Language-based Models
 
 ### Unimodal Approaches
 #### Pre-training
@@ -87,7 +91,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.09*) K2: A Foundation Language Model for Geoscience Knowledge Understanding and Utilization [[paper](https://arxiv.org/abs/2306.05064)]
 
 
-## 2-Vision-based Models
+## 2. Vision-based Models
 ### Unimodal Approaches
 #### Pre-training
 **On-site urban visual data**
@@ -123,7 +127,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*IJAEOG'22*) Migratable Urban Street Scene Sensing Method based on Vsion Language Pre-trained Model [[paper](https://www.sciencedirect.com/science/article/pii/S1569843222001807)]
 - (*arXiv 2023.02*) Learning Generalized Zero-Shot Learners for Open-Domain Image Geolocalization [[paper](https://arxiv.org/abs/2302.00275)]
 
-## 3-Trajectory-based Models
+## 3. Trajectory-based Models
 ### Unimodal Approaches
 #### Pre-training
 **Road network trajectory**
@@ -163,7 +167,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## 4-Time Series-based Models
+## 4. Time Series-based Models
 ### Unimodal Approaches
 #### Pre-training
 **Ordinary time series**
@@ -196,7 +200,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## 5-Multimodal-based Models
+## 5. Multimodal-based Models
 ### Pre-training
 **Single-domain models**
 - (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
@@ -218,7 +222,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## 6-Others
+## 6. Others
 ### Unimodal Approaches
 - (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
 - (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
@@ -230,7 +234,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## 7-Contributing
+## 7. Contributing
 
 👍 Contributions to this repository are welcome! 
 
