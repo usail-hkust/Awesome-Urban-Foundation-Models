@@ -12,9 +12,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## Outline
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
-  - [Outline](#outline)
+  - [0-Survey Paper](#0-survey-paper)
   - [1-Language-based Models](#1-language-based-models)
     - [Unimodal Approaches](#unimodal-approaches)
       - [Pre-training](#pre-training)
@@ -39,9 +38,19 @@ An Awesome Collection of Urban Foundation Models (UFMs).
   - [6-Others](#6-others)
     - [Unimodal Approaches](#unimodal-approaches-4)
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches-2)
-  - [7-Citation](#7-citation)
-  - [8-Contributing](#8-contributing)
+  - [7-Contributing](#7-contributing)
 
+## 0-Survey Paper
+
+[**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/)  
+
+**Authors**: Weijia Zhang, Jindong Han, Zhao Xu, Hang Ni, Hao Liu, Hui Xiong
+
+🌟 If you find this resource helpful, please consider to star this repository and cite our survey paper:
+
+```
+
+```
 
 ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.png)
 
@@ -218,17 +227,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
-## 7-Citation
-
-If you find our paper useful, please kindly cite us via:
-```
-
-```
-
-
-
-
-## 8-Contributing
+## 7-Contributing
 
 👍 Contributions to this repository are welcome! 
 
