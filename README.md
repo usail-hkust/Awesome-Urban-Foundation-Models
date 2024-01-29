@@ -33,6 +33,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
   - [Survey Paper](#survey-paper)
   - [Outline](#outline)
+    - [Taxonomy](#taxonomy)
   - [1. Language-based Models](#1-language-based-models)
     - [Unimodal Approaches](#unimodal-approaches)
       - [Pre-training](#pre-training)
@@ -59,6 +60,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches-2)
   - [7. Contributing](#7-contributing)
 
+### Taxonomy
 
 ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.png)
 
