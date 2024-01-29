@@ -176,59 +176,59 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*KDD'20*) Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403228)]
 - (*AAAI'21*) Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)]
 - (*AAAI'21*) Time Series Domain Adaptation via Sparse Associative Structure Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)]
-- Self-Supervised Autoregressive Domain Adaptation for Time Series Data
-- Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation
-- PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning
-- A Transformer-based Framework for Multivariate Time Series Representation Learning
-- TI-MAE: SELF-SUPERVISED MASKED TIME SERIES AUTOENCODERS
-- A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS
-- TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
-- SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling
-- Unsupervised Scalable Representation Learning for Multivariate Time Series
-- Time-Series Representation Learning via Temporal and Contextual Contrasting
-- UNSUPERVISED REPRESENTATION LEARNING FOR TIME SERIES WITH TEMPORAL NEIGHBORHOOD CODING
-- TS2Vec: Towards Universal Representation of Time Series
-- COST: CONTRASTIVE LEARNING OF DISENTANGLED SEASONAL-TREND REPRESENTATIONS FOR TIME SERIES FORECASTING
-- SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting
-- Lag-Llama: Towards PFMFoundation Models for Time Series Forecasting
-- UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting
+- (*TNNLS'22*) Self-Supervised Autoregressive Domain Adaptation for Time Series Data [[paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09804766.pdf)]
+- (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
+- (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
+- (*KDD'21*) A Transformer-based Framework for Multivariate Time Series Representation Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)]
+- (*arXiv 2023.01*) TI-MAE: SELF-SUPERVISED MASKED TIME SERIES AUTOENCODERS [[paper](https://arxiv.org/pdf/2301.08871)]
+- (*ICLR'23*) A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS [[paper](https://arxiv.org/pdf/2211.14730)]
+- (*KDD'23*) TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [[paper](https://arxiv.org/pdf/2306.09364)]
+- (*NeurIPS'23*) SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling [[paper](https://arxiv.org/pdf/2302.00861)]
+- (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
+- (*IJCAI'21*) Time-Series Representation Learning via Temporal and Contextual Contrasting [[paper](https://arxiv.org/pdf/2106.14112)]
+- (*ICLR'21*) UNSUPERVISED REPRESENTATION LEARNING FOR TIME SERIES WITH TEMPORAL NEIGHBORHOOD CODING [[paper](https://arxiv.org/pdf/2106.00750)]
+- (*AAAI'22*) TS2Vec: Towards Universal Representation of Time Series [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20881/20640)]
+- (*ICLR'22*) COST: CONTRASTIVE LEARNING OF DISENTANGLED SEASONAL-TREND REPRESENTATIONS FOR TIME SERIES FORECASTING [[paper](https://arxiv.org/pdf/2202.01575)]
+- (*arXiv 2023.03*) SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting [[paper](https://arxiv.org/pdf/2303.18205)]
+- (*NeurIPS'23*) Lag-llama: Towards foundation models for time series forecasting [[paper](https://arxiv.org/pdf/2310.08278)]
+- (*arXiv 2023.10*) UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.09751)]
 
 **Spatial-correlated time series**
-- Cross-City Transfer Learning for Deep Spatio-Temporal Prediction
-- Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction
-- Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting
-- ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction
-- When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting?
-- Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
-- Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities
-- Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction
-- Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
-- GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks
+- (*IJCAI'18*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/1802.00386)]
+- (*WWW'19*) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313577)]
+- (*KDD'22*) Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539250)]
+- (*WSDM'22*) ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3488560.3498444)]
+- (*SIGSPATIAL'22*) When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting? [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560939)]
+- (*KDD'22*) Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396)]
+- (*KDD'23*) Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599529)]
+- (*CIKM'23*) Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614958)]
+- (*CIKM'23*) Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614829)]
+- (*NeurIPS'23*) GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks [[paper](https://arxiv.org/pdf/2311.04245)]
 
 #### Adaptation
 **Prompt tuning**
-- (*NeurIPS'23*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning
-- (*arXiv 2023.04*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation
-- PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction
-- Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data
-- Spatial-temporal Prompt Learning for Federated Weather Forecasting
+- (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
+- (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
+- (*CIKM'23*) PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615016)]
+- (*IJCAI'23*) Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data [[paper](https://arxiv.org/pdf/2301.09152)]
+- (*arXiv 2023.05*) Spatial-temporal Prompt Learning for Federated Weather Forecasting [[paper](https://arxiv.org/pdf/2305.14244)]
 
 
 ### Cross-modal Transfer Approaches
 **Prompt engineering**
-- PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting
-- Large Language Models Are Zero-Shot Time Series Forecasters
+- (*TKDE'22*) PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [[paper](https://ieeexplore.ieee.org/iel7/69/4358933/10356715.pdf)]
+- (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
 **Model fine-tuning**
-- (*NeurIPS'23*) One Fits All:Power General Time Series Analysis by Pretrained LM
-- One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors
-- LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs
-- TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING
-- GATGPT: A PRE-TRAINED LARGE LANGUAGE MODEL WITH GRAPH ATTENTION NETWORK FOR SPATIOTEMPORAL IMPUTATION
+- (*NeurIPS'23*) One Fits All:Power General Time Series Analysis by Pretrained LM [[paper](https://www.researchgate.net/profile/Tian-Zhou-18/publication/368753168_One_Fits_AllPower_General_Time_Series_Analysis_by_Pretrained_LM/links/647d80e3b3dfd73b77662460/One-Fits-AllPower-General-Time-Series-Analysis-by-Pretrained-LM.pdf)]
+- (*arXiv 2023.11*) One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors [[paper](https://arxiv.org/pdf/2311.14782)]
+- (*arXiv 2023.08*) LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [[paper](https://arxiv.org/pdf/2308.08469)]
+- (*arXiv 2023.10*) TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING [[paper](https://arxiv.org/pdf/2310.04948)]
+- (*arXiv 2023.11*) GATGPT: A PRE-TRAINED LARGE LANGUAGE MODEL WITH GRAPH ATTENTION NETWORK FOR SPATIOTEMPORAL IMPUTATION [[paper](https://arxiv.org/pdf/2311.14332)]
 
 **Model reprogramming**
-- (*NeurIPS'23*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series
-- TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS
+- (*arXiv 2023.08*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series [[paper](https://arxiv.org/pdf/2308.08241)]
+- (*ICLR'24*) TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS [[paper](https://arxiv.org/pdf/2310.01728.pdf?trk=public_post_comment-text)]
 
 
 
