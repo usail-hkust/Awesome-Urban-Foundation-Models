@@ -1,5 +1,4 @@
 # Awesome-Urban-Foundation-Models
-An Awesome Collection of Urban Foundation Models (UFMs).
 
 <p align="center">
 ![Awesome](https://awesome.re/badge.svg)
@@ -7,8 +6,9 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ![Visits Badge](https://badges.pufler.dev/visits/usail-hkust/Awesome-Urban-Foundation-Models)
 ![Stars](https://img.shields.io/github/stars/usail-hkust/Awesome-Urban-Foundation-Models)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-
 </p>
+
+An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
