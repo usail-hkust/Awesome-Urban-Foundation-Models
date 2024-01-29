@@ -14,13 +14,25 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 **Urban Foundation Models (UFMs)** are large-scale models pre-trained on vast **multi-source, multi-granularity, and multimodal urban data**.  It benefits significantly from its pre-training phase, exhibiting emergent capabilities and remarkable adaptability to a broader range of multiple downstream tasks and domains in urban contexts.
 
+## Survey Paper
+
+[**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/)  
+
+**Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=253)
+
+🌟 If you find this resource helpful, please consider starring this repository and citing our survey paper:
+
+```
+
+```
+
 
 
 
 ## Outline
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
+  - [Survey Paper](#survey-paper)
   - [Outline](#outline)
-  - [0. Survey Paper](#0-survey-paper)
   - [1. Language-based Models](#1-language-based-models)
     - [Unimodal Approaches](#unimodal-approaches)
       - [Pre-training](#pre-training)
@@ -47,18 +59,6 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [Cross-modal Transfer Approaches](#cross-modal-transfer-approaches-2)
   - [7. Contributing](#7-contributing)
 
-
-## 0. Survey Paper
-
-[**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/)  
-
-**Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=253)
-
-🌟 If you find this resource helpful, please consider starring this repository and citing our survey paper:
-
-```
-
-```
 
 ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.png)
 
