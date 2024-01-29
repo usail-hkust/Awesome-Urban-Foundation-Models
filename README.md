@@ -15,7 +15,9 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 
+## Outline
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
+  - [Outline](#outline)
   - [0. Survey Paper](#0-survey-paper)
   - [1. Language-based Models](#1-language-based-models)
     - [Unimodal Approaches](#unimodal-approaches)
