@@ -173,31 +173,62 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ### Unimodal Approaches
 #### Pre-training
 **Ordinary time series**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- (*KDD'20*) Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403228)]
+- (*AAAI'21*) Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)]
+- (*AAAI'21*) Time Series Domain Adaptation via Sparse Associative Structure Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)]
+- Self-Supervised Autoregressive Domain Adaptation for Time Series Data
+- Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation
+- PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning
+- A Transformer-based Framework for Multivariate Time Series Representation Learning
+- TI-MAE: SELF-SUPERVISED MASKED TIME SERIES AUTOENCODERS
+- A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS
+- TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting
+- SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling
+- Unsupervised Scalable Representation Learning for Multivariate Time Series
+- Time-Series Representation Learning via Temporal and Contextual Contrasting
+- UNSUPERVISED REPRESENTATION LEARNING FOR TIME SERIES WITH TEMPORAL NEIGHBORHOOD CODING
+- TS2Vec: Towards Universal Representation of Time Series
+- COST: CONTRASTIVE LEARNING OF DISENTANGLED SEASONAL-TREND REPRESENTATIONS FOR TIME SERIES FORECASTING
+- SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting
+- Lag-Llama: Towards PFMFoundation Models for Time Series Forecasting
+- UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting
 
 **Spatial-correlated time series**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- Cross-City Transfer Learning for Deep Spatio-Temporal Prediction
+- Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction
+- Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting
+- ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction
+- When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting?
+- Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+- Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities
+- Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction
+- Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank
+- GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks
 
 #### Adaptation
 **Prompt tuning**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- (*NeurIPS'23*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning
+- (*arXiv 2023.04*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation
+- PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction
+- Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data
+- Spatial-temporal Prompt Learning for Federated Weather Forecasting
 
 
 ### Cross-modal Transfer Approaches
 **Prompt engineering**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting
+- Large Language Models Are Zero-Shot Time Series Forecasters
 
 **Model fine-tuning**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- (*NeurIPS'23*) One Fits All:Power General Time Series Analysis by Pretrained LM
+- One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors
+- LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs
+- TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING
+- GATGPT: A PRE-TRAINED LARGE LANGUAGE MODEL WITH GRAPH ATTENTION NETWORK FOR SPATIOTEMPORAL IMPUTATION
 
 **Model reprogramming**
-- (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
-- (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
+- (*NeurIPS'23*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series
+- TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS
 
 
 
