@@ -12,6 +12,8 @@
 
 An Awesome Collection of Urban Foundation Models (UFMs).
 
+**Urban Foundation Models (UFMs)** are large-scale models pre-trained on vast **multi-source, multi-granularity, and multimodal urban data**.  It benefits significantly from its pre-training phase, exhibiting emergent capabilities and remarkable adaptability to a broader range of multiple downstream tasks and domains in urban contexts.
+
 
 
 
