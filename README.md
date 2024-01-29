@@ -5,8 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Testing Status](https://img.shields.io/badge/license-MIT-blue)
 ![Visits Badge](https://badges.pufler.dev/visits/usail-hkust/Awesome-Urban-Foundation-Models)
-![Stars](https://img.shields.io/github/stars/usail-hkust/Awesome-Urban-Foundation-Models)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+![Stars](https://img.shields.io/github/stars/usail-hkust/Awesome-Urban-Foundation-Models)
 
 </p>
 
