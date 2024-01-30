@@ -137,85 +137,82 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ### Unimodal Approaches
 #### Pre-training
 **Road network trajectory**
-- (*ICDE'18*) Deep representation learning for trajectory similarity computation [[paper](https://doi.org/10.1109/ICDE.2018.00062)]
-- (*IJCNN'17*) Trajectory clustering via deep representation learning [[paper](https://doi.org/10.1109/IJCNN.2017.7966345)]
-- (*TIST'20*) Trembr: Exploring road networks for trajectory representation learning [[paper](https://doi.org/10.1145/3361741)]
-- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://doi.org/10.1145/3459637.3482293)]
-- (*IJCAI'21*) Unsupervised path representation learning with curriculum negative sampling [[paper](https://www.ijcai.org/proceedings/2021/0452.pdf)]
-- (*KDD'23*) Lightpath: Lightweight and scalable path representation learning [[paper](https://doi.org/10.1145/3580305.3599415)]
+--(*KDD'23*) Lightpath: Lightweight and scalable path representation learning [[paper](https://doi.org/10.1145/3580305.3599415)]
 - (*ICDM'23*) Self-supervised Pre-training for Robust and Generic Spatial-Temporal Representations [[paper](https://users.wpi.edu/~yli15/Includes/23_ICDM_MingzhiCR.pdf)]
 - (*TKDE'23*) Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding [[paper](https://doi.org/10.1109/TKDE.2023.3347513)]
-- (*VLDB'22*) Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training [[paper](https://doi.org/10.1007/s00778-022-00748-y)]
 - (*ICDE'23*) Self-supervised trajectory representation learning with temporal regularities and travel semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
+- (*VLDBJ'22*) Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training [[paper](https://doi.org/10.1007/s00778-022-00748-y)]
+- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://doi.org/10.1145/3459637.3482293)]
+- (*IJCAI'21*) Unsupervised path representation learning with curriculum negative sampling [[paper](https://www.ijcai.org/proceedings/2021/0452.pdf)]
+- (*TIST'20*) Trembr: Exploring road networks for trajectory representation learning [[paper](https://doi.org/10.1145/3361741)]
+- (*ICDE'18*) Deep representation learning for trajectory similarity computation [[paper](https://doi.org/10.1109/ICDE.2018.00062)]
+- (*IJCNN'17*) Trajectory clustering via deep representation learning [[paper](https://doi.org/10.1109/IJCNN.2017.7966345)]
 
 **Free space trajectory**
-- (*KDD'20*) Learning to simulate human mobility [[paper](https://doi.org/10.1145/3394486.3412862)]
+- (*AAAI'23*) Contrastive pre-training with adversarial perturbations for check-in sequence representation learning [[paper](https://doi.org/10.1609/aaai.v37i4.25546)]
 - (*KBS'21*) Self-supervised human mobility learning for next location prediction and trajectory classification [[paper](https://doi.org/10.1016/j.knosys.2021.107214)]
 - (*AAAI'21*) Pre-training context and time aware location embeddings from spatial-temporal trajectories for user next location prediction [[paper](https://doi.org/10.1609/aaai.v35i5.16548)]
-- (*AAAI'23*) Contrastive pre-training with adversarial perturbations for check-in sequence representation learning [[paper](https://doi.org/10.1609/aaai.v37i4.25546)]
+- (*KDD'20*) Learning to simulate human mobility [[paper](https://doi.org/10.1145/3394486.3412862)]
 
 #### Adaptation
 **Model fine-tuning**
 - (*ToW'23*) Pre-Training Across Different Cities for Next POI Recommendation [[paper](https://doi.org/10.1145/3605554)]
-- (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
 - (*TIST'23*) Doing more with less: overcoming data scarcity for poi recommendation via cross-region transfer [[paper](https://doi.org/10.1145/3511711)]
+- (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
 
 ### Cross-modal Transfer Approaches
 **Prompt engineering**
-- (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
-- (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
-- (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
 - (*arXiv 2023.11*) Exploring Large Language Models for Human Mobility Prediction under Public Events [[paper](https://arxiv.org/abs/2311.17351)]
-- (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
+- (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
 - (*arXiv 2023.10*) Gpt-driver: Learning to drive with gpt [[paper](https://arxiv.org/abs/2310.01415)]
 - (*arXiv 2023.10*) Languagempc: Large language models as decision makers for autonomous driving [[paper](https://arxiv.org/abs/2310.03026)]
-
-
-
+- (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
+- (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
+- (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
 
 ## 4. Time Series-based Models
 ### Unimodal Approaches
 #### Pre-training
 **Ordinary time series**
-- (*KDD'20*) Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403228)]
-- (*AAAI'21*) Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)]
-- (*AAAI'21*) Time Series Domain Adaptation via Sparse Associative Structure Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)]
-- (*TNNLS'22*) Self-Supervised Autoregressive Domain Adaptation for Time Series Data [[paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09804766.pdf)]
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
-- (*KDD'21*) A Transformer-based Framework for Multivariate Time Series Representation Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)]
-- (*arXiv 2023.01*) TI-MAE: SELF-SUPERVISED MASKED TIME SERIES AUTOENCODERS [[paper](https://arxiv.org/pdf/2301.08871)]
-- (*ICLR'23*) A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS [[paper](https://arxiv.org/pdf/2211.14730)]
-- (*KDD'23*) TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [[paper](https://arxiv.org/pdf/2306.09364)]
-- (*NeurIPS'23*) SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling [[paper](https://arxiv.org/pdf/2302.00861)]
-- (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
-- (*IJCAI'21*) Time-Series Representation Learning via Temporal and Contextual Contrasting [[paper](https://arxiv.org/pdf/2106.14112)]
-- (*ICLR'21*) UNSUPERVISED REPRESENTATION LEARNING FOR TIME SERIES WITH TEMPORAL NEIGHBORHOOD CODING [[paper](https://arxiv.org/pdf/2106.00750)]
-- (*AAAI'22*) TS2Vec: Towards Universal Representation of Time Series [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20881/20640)]
-- (*ICLR'22*) COST: CONTRASTIVE LEARNING OF DISENTANGLED SEASONAL-TREND REPRESENTATIONS FOR TIME SERIES FORECASTING [[paper](https://arxiv.org/pdf/2202.01575)]
-- (*arXiv 2023.03*) SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting [[paper](https://arxiv.org/pdf/2303.18205)]
-- (*NeurIPS'23*) Lag-llama: Towards foundation models for time series forecasting [[paper](https://arxiv.org/pdf/2310.08278)]
 - (*arXiv 2023.10*) UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.09751)]
+- (*arXiv 2023.03*) SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting [[paper](https://arxiv.org/pdf/2303.18205)]
+- (*arXiv 2023.01*) Ti-MAE: Self-Supervised Masked Time Series Autoencoders [[paper](https://arxiv.org/pdf/2301.08871)]
+- (*NeurIPS'23*) SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling [[paper](https://arxiv.org/pdf/2302.00861)]
+- (*NeurIPS'23*) Lag-llama: Towards foundation models for time series forecasting [[paper](https://arxiv.org/pdf/2310.08278)]
+- (*ICLR'23*) A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [[paper](https://arxiv.org/pdf/2211.14730)]
+- (*KDD'23*) TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [[paper](https://arxiv.org/pdf/2306.09364)]
+- (*AAAI'22*) TS2Vec: Towards Universal Representation of Time Series [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20881/20640)]
+- (*ICLR'22*) CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting [[paper](https://arxiv.org/pdf/2202.01575)]
+- (*TNNLS'22*) Self-Supervised Autoregressive Domain Adaptation for Time Series Data [[paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/09804766.pdf)]
+- (*IJCAI'21*) Time-Series Representation Learning via Temporal and Contextual Contrasting [[paper](https://arxiv.org/pdf/2106.14112)]
+- (*ICLR'21*) Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding [[paper](https://arxiv.org/pdf/2106.00750)]
+- (*AAAI'21*) Meta-Learning Framework with Applications to Zero-Shot Time-Series Forecasting [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17115/16922)]
+- (*AAAI'21*) Time Series Domain Adaptation via Sparse Associative Structure Alignment [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16846/16653)]
+- (*KDD'21*) A Transformer-based Framework for Multivariate Time Series Representation Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401)]
+- (*KDD'20*) Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403228)]
+- (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
 
 **Spatial-correlated time series**
-- (*IJCAI'18*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/1802.00386)]
-- (*WWW'19*) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313577)]
-- (*KDD'22*) Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539250)]
-- (*WSDM'22*) ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3488560.3498444)]
-- (*SIGSPATIAL'22*) When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting? [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560939)]
-- (*KDD'22*) Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396)]
 - (*KDD'23*) Transferable Graph Structure Learning for Graph-based Traffic Forecasting Across Cities [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599529)]
 - (*CIKM'23*) Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614958)]
 - (*CIKM'23*) Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614829)]
 - (*NeurIPS'23*) GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks [[paper](https://arxiv.org/pdf/2311.04245)]
+- (*KDD'22*) Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539250)]
+- (*WSDM'22*) ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3488560.3498444)]
+- (*SIGSPATIAL'22*) When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting? [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560939)]
+- (*KDD'22*) Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539396)]
+- (*WWW'19*) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313577)]
+- (*IJCAI'18*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/1802.00386)]
 
 #### Adaptation
 **Prompt tuning**
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
+- (*arXiv 2023.05*) Spatial-temporal Prompt Learning for Federated Weather Forecasting [[paper](https://arxiv.org/pdf/2305.14244)]
 - (*CIKM'23*) PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3615016)]
 - (*IJCAI'23*) Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data [[paper](https://arxiv.org/pdf/2301.09152)]
-- (*arXiv 2023.05*) Spatial-temporal Prompt Learning for Federated Weather Forecasting [[paper](https://arxiv.org/pdf/2305.14244)]
 
 
 ### Cross-modal Transfer Approaches
@@ -224,18 +221,15 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
 **Model fine-tuning**
-- (*NeurIPS'23*) One Fits All:Power General Time Series Analysis by Pretrained LM [[paper](https://www.researchgate.net/profile/Tian-Zhou-18/publication/368753168_One_Fits_AllPower_General_Time_Series_Analysis_by_Pretrained_LM/links/647d80e3b3dfd73b77662460/One-Fits-AllPower-General-Time-Series-Analysis-by-Pretrained-LM.pdf)]
 - (*arXiv 2023.11*) One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors [[paper](https://arxiv.org/pdf/2311.14782)]
-- (*arXiv 2023.08*) LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [[paper](https://arxiv.org/pdf/2308.08469)]
-- (*arXiv 2023.10*) TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING [[paper](https://arxiv.org/pdf/2310.04948)]
 - (*arXiv 2023.11*) GATGPT: A PRE-TRAINED LARGE LANGUAGE MODEL WITH GRAPH ATTENTION NETWORK FOR SPATIOTEMPORAL IMPUTATION [[paper](https://arxiv.org/pdf/2311.14332)]
+- (*arXiv 2023.10*) TEMPO: PROMPT-BASED GENERATIVE PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING [[paper](https://arxiv.org/pdf/2310.04948)]
+- (*arXiv 2023.08*) LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [[paper](https://arxiv.org/pdf/2308.08469)]
+- (*NeurIPS'23*) One Fits All:Power General Time Series Analysis by Pretrained LM [[paper](https://www.researchgate.net/profile/Tian-Zhou-18/publication/368753168_One_Fits_AllPower_General_Time_Series_Analysis_by_Pretrained_LM/links/647d80e3b3dfd73b77662460/One-Fits-AllPower-General-Time-Series-Analysis-by-Pretrained-LM.pdf)]
 
 **Model reprogramming**
 - (*arXiv 2023.08*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series [[paper](https://arxiv.org/pdf/2308.08241)]
 - (*ICLR'24*) TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS [[paper](https://arxiv.org/pdf/2310.01728.pdf?trk=public_post_comment-text)]
-
-
-
 
 ## 5. Multimodal-based Models
 ### Pre-training
@@ -257,17 +251,15 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.04*) Segment Anything [[paper](https://arxiv.org/abs/2304.02643)]
 
 
-
-
 ## 6. Others
 ### Unimodal Approaches
-- (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482004)]
 - (*EDBT'23*) Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning [[paper](https://people.eng.unimelb.edu.au/jianzhongq/papers/EDBT2023_RoadNetworkEmbedding.pdf)]
+- (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482004)]
 
 ### Cross-modal Transfer Approaches
 - (*arXiv 2023.12*) Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity [[paper](https://arxiv.org/pdf/2312.16044)]
-- (*arXiv 2023.06*) Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning [[paper](https://arxiv.org/pdf/2306.08094)]
 - (*arXiv 2023.08*) Llm powered sim-to-real transfer for traffic signal control [[paper](https://arxiv.org/pdf/2308.14284)]
+- (*arXiv 2023.06*) Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning [[paper](https://arxiv.org/pdf/2306.08094)]
 
 
 
