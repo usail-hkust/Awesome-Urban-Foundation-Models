@@ -25,7 +25,14 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 🌟 If you find this resource helpful, please consider starring this repository and citing our survey paper:
 
 ```
-
+@misc{zhang2024urban,
+      title={Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models}, 
+      author={Weijia Zhang and Jindong Han and Zhao Xu and Hang Ni and Hao Liu and Hui Xiong},
+      year={2024},
+      eprint={2402.01749},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
 ```
 
 
