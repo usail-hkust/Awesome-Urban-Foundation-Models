@@ -149,6 +149,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*ICDM'23*) Self-supervised Pre-training for Robust and Generic Spatial-Temporal Representations [[paper](https://users.wpi.edu/~yli15/Includes/23_ICDM_MingzhiCR.pdf)]
 - (*TKDE'23*) Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding [[paper](https://doi.org/10.1109/TKDE.2023.3347513)]
 - (*ICDE'23*) Self-supervised trajectory representation learning with temporal regularities and travel semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
+- (*WWW'24*) More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://arxiv.org/abs/2402.16915v1)]
 - (*VLDBJ'22*) Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training [[paper](https://doi.org/10.1007/s00778-022-00748-y)]
 - (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://doi.org/10.1145/3459637.3482293)]
 - (*IJCAI'21*) Unsupervised path representation learning with curriculum negative sampling [[paper](https://www.ijcai.org/proceedings/2021/0452.pdf)]
@@ -177,6 +178,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
 - (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
 - (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
+- (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
 
 ## 4. Time Series-based Models
 ### Unimodal Approaches
