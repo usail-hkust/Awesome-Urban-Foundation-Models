@@ -90,7 +90,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ### Taxonomy
 
 <!-- ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.jpg) -->
-<img src="./figs/taxonomy.jpg" style="width:75%;">
+<img src="./figs/taxonomy.jpg" style="width:90%;">
 
 
 
