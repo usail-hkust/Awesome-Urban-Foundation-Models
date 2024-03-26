@@ -284,7 +284,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*EDBT'23*) Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning [[paper](https://people.eng.unimelb.edu.au/jianzhongq/papers/EDBT2023_RoadNetworkEmbedding.pdf)]
 - (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482004)]
 
-### 6.2 Cross-modal Transfer Approaches
+### 6.2 Cross-modal Adaptation
 - (*arXiv 2023.12*) Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity [[paper](https://arxiv.org/pdf/2312.16044)]
 - (*arXiv 2023.08*) Llm powered sim-to-real transfer for traffic signal control [[paper](https://arxiv.org/pdf/2308.14284)]
 - (*arXiv 2023.06*) Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning [[paper](https://arxiv.org/pdf/2306.08094)]
