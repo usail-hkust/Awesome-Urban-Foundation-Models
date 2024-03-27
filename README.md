@@ -200,11 +200,18 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ## 4. Time Series-based Models
 ### 4.1 Unimodal Pre-training
 #### Ordinary time series
+- (*arXiv 2024.03*) UniTS: Building a Unified Time Series Model [[paper](https://arxiv.org/pdf/2403.00131.pdf)]
+- (*arXiv 2024.02*) Timer: Transformers for Time Series Analysis at Scale [[paper](https://arxiv.org/pdf/2402.02368.pdf)]
+- (*arXiv 2024.02*) Generative Pretrained Hierarchical Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2402.16516.pdf)]
+- (*arXiv 2024.02*) TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling [[paper](https://arxiv.org/pdf/2402.02475v1.pdf)]
+- - (*arXiv 2024.01*) TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series [[paper](https://arxiv.org/pdf/2401.03955v3.pdf)]
+- (*arXiv 2024.01*) Himtm: Hierarchical multi-scale masked time series modeling for long-term forecasting [[paper](https://arxiv.org/pdf/2401.05012.pdf)]
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
 - (*arXiv 2023.10*) UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.09751)]
 - (*arXiv 2023.03*) SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting [[paper](https://arxiv.org/pdf/2303.18205)]
 - (*arXiv 2023.01*) Ti-MAE: Self-Supervised Masked Time Series Autoencoders [[paper](https://arxiv.org/pdf/2301.08871)]
+- (*NeurIPS'23*) Forecastpfn: Synthetically-trained zero-shot forecasting [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/0731f0e65559059eb9cd9d6f44ce2dd8-Paper-Conference.pdf)]
 - (*NeurIPS'23*) SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling [[paper](https://arxiv.org/pdf/2302.00861)]
 - (*NeurIPS'23*) Lag-llama: Towards foundation models for time series forecasting [[paper](https://arxiv.org/pdf/2310.08278)]
 - (*ICLR'23*) A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [[paper](https://arxiv.org/pdf/2211.14730)]
@@ -221,6 +228,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
 
 #### Spatial-correlated time series
+- (*arXiv 2024.02*) UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/2402.11838.pdf)]
 - (*NeurIPS'23*) GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks [[paper](https://arxiv.org/pdf/2311.04245)]
 - (*CIKM'23*) Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614958)]
 - (*CIKM'23*) Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614829)]
@@ -247,7 +255,12 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
 #### Model fine-tuning
+— (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
 - (*ICLR'24*) TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.04948)]
+- (*arXiv 2024.03*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/pdf/2403.00813.pdf)]
+- (*arXiv 2024.03*) TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [[paper](https://arxiv.org/pdf/2403.02221v1.pdf)]
+- (*arXiv 2024.01*) How can large language models understand spatial-temporal data? [[paper](https://arxiv.org/pdf/2401.14192v1.pdf)]
+- (*arXiv 2024.01*) Spatial-temporal large language model for traffic prediction [[paper](https://arxiv.org/pdf/2401.10134v2.pdf)]
 - (*arXiv 2023.11*) One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors [[paper](https://arxiv.org/pdf/2311.14782)]
 - (*arXiv 2023.11*) GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [[paper](https://arxiv.org/pdf/2311.14332)]
 - (*arXiv 2023.08*) LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [[paper](https://arxiv.org/pdf/2308.08469)]
