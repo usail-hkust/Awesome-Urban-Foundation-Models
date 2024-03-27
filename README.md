@@ -204,7 +204,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2024.02*) Timer: Transformers for Time Series Analysis at Scale [[paper](https://arxiv.org/pdf/2402.02368.pdf)]
 - (*arXiv 2024.02*) Generative Pretrained Hierarchical Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2402.16516.pdf)]
 - (*arXiv 2024.02*) TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling [[paper](https://arxiv.org/pdf/2402.02475v1.pdf)]
-- - (*arXiv 2024.01*) TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series [[paper](https://arxiv.org/pdf/2401.03955v3.pdf)]
+-  (*arXiv 2024.01*) TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series [[paper](https://arxiv.org/pdf/2401.03955v3.pdf)]
 - (*arXiv 2024.01*) Himtm: Hierarchical multi-scale masked time series modeling for long-term forecasting [[paper](https://arxiv.org/pdf/2401.05012.pdf)]
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
@@ -255,7 +255,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
 #### Model fine-tuning
-— (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
+- (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
 - (*ICLR'24*) TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.04948)]
 - (*arXiv 2024.03*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/pdf/2403.00813.pdf)]
 - (*arXiv 2024.03*) TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [[paper](https://arxiv.org/pdf/2403.02221v1.pdf)]
