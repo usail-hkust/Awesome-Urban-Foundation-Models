@@ -228,7 +228,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
 
 #### Spatial-correlated time series
-- (*arXiv 2024.02*) UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/2402.11838.pdf)]
+- (*KDD'24*) UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction [[paper](https://arxiv.org/abs/2402.11838)]
 - (*NeurIPS'23*) GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks [[paper](https://arxiv.org/pdf/2311.04245)]
 - (*CIKM'23*) Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614958)]
 - (*CIKM'23*) Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614829)]
