@@ -20,7 +20,10 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ## Urban Foundation Models (UFMs)
 **Urban Foundation Models (UFMs)** are a family of large-scale models pre-trained on vast amounts of multi-source, multi-granularity, and multimodal urban data. They acquire notable general-purpose capabilities in the pre-training phase, exhibiting remarkable emergent abilities and adaptability dedicated to a range of urban application domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
 
-![UFM](./figs/UFM_fig.png)
+<!--![UFM](./figs/UFM_fig.png)-->
+<p align="center">
+  <img src="./figs/UFM_fig.png" alt="UFM" width="95%">
+</p>
 
 ## Survey Paper
 
@@ -111,13 +114,11 @@ booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discover
     - [6.2 Cross-modal Transfer Approaches](#62-cross-modal-transfer-approaches)
   - [7. Contributing](#7-contributing)
 
+
 ### Taxonomy
 
 <!-- ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.jpg) -->
-<img src="./figs/taxonomy.jpg" style="width:90%;">
-
-
-
+<img src="./figs/taxonomy.jpg" style="width:80%;">
 
 
 ## 1. Language-based Models
