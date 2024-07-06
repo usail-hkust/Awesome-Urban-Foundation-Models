@@ -13,7 +13,7 @@
 ## News 
 🌟 2024-05: This survey has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
 
-</p>
+***
 
 
 An Awesome Collection of Urban Foundation Models (UFMs).
