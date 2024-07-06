@@ -10,8 +10,11 @@
 
 </p>
 
-## 🌟🌟🌟 News 🌟🌟🌟
+## News 
 🌟 2024-05: This survey has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
+
+</p>
+
 
 An Awesome Collection of Urban Foundation Models (UFMs).
 
@@ -21,12 +24,12 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ## Survey Paper
 
-### KDD'24 Version
+#### KDD'24 Version
 [**Urban Foundation Models: A Survey**](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey) 
 
 **Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
-### Arxiv Version
+#### Arxiv Version
 [**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/abs/2402.01749)  
 
 **Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
