@@ -10,19 +10,37 @@
 
 </p>
 
+## 🌟🌟🌟 News 🌟🌟🌟
+🌟 2024-05: This survey has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
+
 An Awesome Collection of Urban Foundation Models (UFMs).
 
-**Urban Foundation Models (UFMs)** are large-scale models pre-trained on vast **multi-source, multi-granularity, and multimodal urban data**.  It benefits significantly from its pre-training phase, exhibiting emergent capabilities and remarkable adaptability to a broader range of multiple downstream tasks and domains in urban contexts.
+**Urban Foundation Models (UFMs)** are a family of large-scale models pre-trained on vast amounts of multi-source, multi-granularity, and multimodal urban data. They acquire notable general-purpose capabilities in the pre-training phase, exhibiting remarkable emergent abilities and adaptability dedicated to a range of urban application domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
 
 ![UFM](./figs/UFM_fig.png)
 
 ## Survey Paper
 
+### KDD'24 Version
+[**Urban Foundation Models: A Survey**](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey) 
+
+**Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
+
+### Arxiv Version
 [**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/abs/2402.01749)  
 
 **Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
 🌟 If you find this resource helpful, please consider starring this repository and citing our survey paper:
+
+```
+@inproceedings{ufmsurvey-kdd2024,
+author = {Zhang, Wejia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
+title = {Urban Foundation Models: A Survey},
+year = {2024},
+booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (Tutorial Track Paper)}
+}
+```
 
 ```
 @misc{zhang2024urban,
