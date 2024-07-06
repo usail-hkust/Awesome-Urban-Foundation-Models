@@ -10,14 +10,14 @@
 
 </p>
 
+An Awesome Collection of Urban Foundation Models (UFMs).
+
+
 ## News 
-🌟 2024-05: This survey has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
-
-**
+🌟 2024-05: [Urban Foundation Models: A Survey](https://www.researchgate.net/publication/382025953_Urban_Foundation_Models_A_Survey) has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
 
 
-#### An Awesome Collection of Urban Foundation Models (UFMs).
-
+## Urban Foundation Models (UFMs)
 **Urban Foundation Models (UFMs)** are a family of large-scale models pre-trained on vast amounts of multi-source, multi-granularity, and multimodal urban data. They acquire notable general-purpose capabilities in the pre-training phase, exhibiting remarkable emergent abilities and adaptability dedicated to a range of urban application domains, such as transportation, urban planning, energy management, environmental monitoring, and public safety and security.
 
 ![UFM](./figs/UFM_fig.png)
