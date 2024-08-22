@@ -308,15 +308,15 @@ booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discover
 
 ### 5.2 Adaptation
 #### Prompt engineering
+- (*arXiv 2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
 - (*arXiv 2023.07*) GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT [[paper](https://arxiv.org/abs/2307.07930)]
-- (*arXiv 2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161)]
 
 #### Model fine-tuning
-- (*arXiv 2023.12*) Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment [[paper](https://arxiv.org/abs/2312.11813)]
-- (*arXiv 2023.07*) VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View [[paper](https://arxiv.org/abs/2307.06082)]
+- (*ICML'24*) GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model [[paper](https://arxiv.org/abs/2406.18572)]
+- (*AAAI'24*) VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View [[paper](https://arxiv.org/abs/2307.06082)]
 - (*arXiv 2024.02*) TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation [[paper](https://arxiv.org/abs/2402.07233)]
-
+- (*arXiv 2023.12*) Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment [[paper](https://arxiv.org/abs/2312.11813)]
 
 ## 6. Others
 ### 6.1 Unimodal Approaches
