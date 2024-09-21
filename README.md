@@ -104,8 +104,6 @@ booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discover
       - [Model reprogramming](#model-reprogramming)
   - [5. Multimodal-based Models](#5-multimodal-based-models)
     - [5.1 Pre-training](#51-pre-training)
-      - [Single-domain models](#single-domain-models)
-      - [Multi-domain models](#multi-domain-models)
     - [5.2 Adaptation](#52-adaptation)
       - [Prompt engineering](#prompt-engineering-4)
       - [Model fine-tuning](#model-fine-tuning-4)
