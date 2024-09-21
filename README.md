@@ -44,10 +44,11 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ```
 @inproceedings{ufmsurvey-kdd2024,
-author = {Zhang, Wejia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
-title = {Urban Foundation Models: A Survey},
-year = {2024},
-booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining}
+  title={Urban Foundation Models: A Survey},
+  author={Zhang, Weijia and Han, Jindong and Xu, Zhao and Ni, Hang and Liu, Hao and Xiong, Hui},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6633--6643},
+  year={2024}
 }
 ```
 
