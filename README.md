@@ -227,6 +227,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ## 4. Time Series-based Models
 ### 4.1 Unimodal Pre-training
 #### Ordinary time series
+- (*ICML'24*) A decoder-only foundation model for time-series forecasting [[paper](https://raw.githubusercontent.com/mlresearch/v235/main/assets/das24c/das24c.pdf)]
 - (*arXiv 2024.03*) UniTS: Building a Unified Time Series Model [[paper](https://arxiv.org/pdf/2403.00131.pdf)]
 - (*arXiv 2024.02*) Timer: Transformers for Time Series Analysis at Scale [[paper](https://arxiv.org/pdf/2402.02368.pdf)]
 - (*arXiv 2024.02*) Generative Pretrained Hierarchical Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2402.16516.pdf)]
@@ -284,7 +285,6 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 #### Model fine-tuning
 - (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
 - (*ICLR'24*) TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.04948)]
-- (*arXiv 2024.03*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/pdf/2403.00813.pdf)]
 - (*arXiv 2024.03*) TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [[paper](https://arxiv.org/pdf/2403.02221v1.pdf)]
 - (*arXiv 2024.01*) How can large language models understand spatial-temporal data? [[paper](https://arxiv.org/pdf/2401.14192v1.pdf)]
 - (*arXiv 2024.01*) Spatial-temporal large language model for traffic prediction [[paper](https://arxiv.org/pdf/2401.10134v2.pdf)]
@@ -294,6 +294,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) One Fits All: Power General Time Series Analysis by Pretrained LM [[paper](https://www.researchgate.net/profile/Tian-Zhou-18/publication/368753168_One_Fits_AllPower_General_Time_Series_Analysis_by_Pretrained_LM/links/647d80e3b3dfd73b77662460/One-Fits-AllPower-General-Time-Series-Analysis-by-Pretrained-LM.pdf)]
 
 #### Model reprogramming
+- (*arXiv 2024.08*) Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming [[paper](https://arxiv.org/pdf/2408.14505)]
+- (*KDD'24*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/pdf/2403.00813)]
 - (*ICLR'24*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/pdf/2310.01728.pdf?trk=public_post_comment-text)]
 - (*arXiv 2023.08*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series [[paper](https://arxiv.org/pdf/2308.08241)]
 
