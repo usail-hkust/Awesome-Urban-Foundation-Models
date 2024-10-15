@@ -68,7 +68,11 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ## Outline
 - [Awesome-Urban-Foundation-Models](#awesome-urban-foundation-models)
+  - [News](#news)
+  - [Urban Foundation Models (UFMs)](#urban-foundation-models-ufms)
   - [Survey Paper](#survey-paper)
+      - [\[KDD'24 Version\]](#kdd24-version)
+      - [\[arXiv Version\]](#arxiv-version)
   - [Outline](#outline)
     - [Taxonomy](#taxonomy)
   - [1. Language-based Models](#1-language-based-models)
@@ -79,9 +83,9 @@ An Awesome Collection of Urban Foundation Models (UFMs).
       - [Model fine-tuning](#model-fine-tuning)
   - [2. Vision-based Models](#2-vision-based-models)
     - [2.1 Unimodal Pre-training](#21-unimodal-pre-training)
-      - [On-site urban visual data](#on-site-urban-visual-data)
+      - [On-site visual data](#on-site-visual-data)
       - [Remote sensing data](#remote-sensing-data)
-      - [Grid-based meteorological data](#grid-based-meteorological-data)
+      - [Raster data](#raster-data)
     - [2.2 Unimodal Adaptation](#22-unimodal-adaptation)
       - [Prompt engineering](#prompt-engineering-1)
       - [Model fine-tuning](#model-fine-tuning-1)
@@ -110,7 +114,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
       - [Model fine-tuning](#model-fine-tuning-4)
   - [6. Others](#6-others)
     - [6.1 Unimodal Approaches](#61-unimodal-approaches)
-    - [6.2 Cross-modal Transfer Approaches](#62-cross-modal-transfer-approaches)
+    - [6.2 Cross-modal Adaptation](#62-cross-modal-adaptation)
   - [7. Contributing](#7-contributing)
 
 
@@ -200,6 +204,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*TIST'20*) Trembr: Exploring road networks for trajectory representation learning [[paper](https://doi.org/10.1145/3361741)]
 - (*ICDE'18*) Deep representation learning for trajectory similarity computation [[paper](https://doi.org/10.1109/ICDE.2018.00062)]
 - (*IJCNN'17*) Trajectory clustering via deep representation learning [[paper](https://doi.org/10.1109/IJCNN.2017.7966345)]
+- (*arXiv 2024.08*) TrajFM: A Vehicle Trajectory Foundation Model for Region and Task Transferability [[paper](https://arxiv.org/abs/2408.15251)]
 
 #### Free space trajectory
 - (*AAAI'23*) Contrastive pre-training with adversarial perturbations for check-in sequence representation learning [[paper](https://doi.org/10.1609/aaai.v37i4.25546)]
