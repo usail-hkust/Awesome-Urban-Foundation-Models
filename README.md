@@ -162,8 +162,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 #### Remote sensing data
 - (*TGRS'24*) Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis [[paper](https://ieeexplore.ieee.org/abstract/document/10591792)]
-- (*TGRS'23*) A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning [[paper](https://ieeexplore.ieee.org/document/10271701)]
 - (*JSTARS'24*) A Billion-scale Foundation Model for Remote Sensing Images [[paper](https://arxiv.org/abs/2304.05215)]
+- (*TGRS'23*) A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning [[paper](https://ieeexplore.ieee.org/document/10271701)]
 - (*TGRS'23*) Foundation Model-Based Multimodal Remote Sensing Data Classification [[paper](https://ieeexplore.ieee.org/abstract/document/10375372)]
 - (*TGRS'23*) RingMo-Sense: Remote Sensing Foundation Model for Spatiotemporal Prediction via Spatiotemporal Evolution Disentangling [[paper](https://ieeexplore.ieee.org/abstract/document/10254320)]
 - (*ICCV'23*) Towards Geospatial Foundation Models via Continual Pretraining [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Mendieta_Towards_Geospatial_Foundation_Models_via_Continual_Pretraining_ICCV_2023_paper.html)]
