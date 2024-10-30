@@ -161,6 +161,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*AAAI'20*) Urban2Vec: Incorporating Street View Imagery and POIs for Multi-Modal Urban Neighborhood Embedding [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5450)]
 
 #### Remote sensing data
+- (*TGRS'22*) Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis [[paper](https://ieeexplore.ieee.org/abstract/document/10591792)]
+- (*TGRS'23*) A Decoupling Paradigm With Prompt Learning for Remote Sensing Image Change Captioning [[paper](https://ieeexplore.ieee.org/document/10271701)]
 - (*JSTARS'24*) A Billion-scale Foundation Model for Remote Sensing Images [[paper](https://arxiv.org/abs/2304.05215)]
 - (*TGRS'23*) Foundation Model-Based Multimodal Remote Sensing Data Classification [[paper](https://ieeexplore.ieee.org/abstract/document/10375372)]
 - (*TGRS'23*) RingMo-Sense: Remote Sensing Foundation Model for Spatiotemporal Prediction via Spatiotemporal Evolution Disentangling [[paper](https://ieeexplore.ieee.org/abstract/document/10254320)]
