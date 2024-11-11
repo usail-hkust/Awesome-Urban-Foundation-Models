@@ -316,7 +316,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 5.2 Adaptation
 #### Prompt engineering
-- (*arXiv 2024.02*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2402.17161)]
+- (*arXiv 2024.02*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
 - (*arXiv 2023.07*) GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT [[paper](https://arxiv.org/abs/2307.07930)]
 
