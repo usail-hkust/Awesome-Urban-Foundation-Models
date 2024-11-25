@@ -316,7 +316,6 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 5.2 Adaptation
 #### Prompt engineering
-- (*arXiv 2024.02*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
 - (*arXiv 2023.07*) GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT [[paper](https://arxiv.org/abs/2307.07930)]
 
@@ -332,7 +331,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482004)]
 
 ### 6.2 Cross-modal Adaptation
-- (*arXiv 2023.12*) Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity [[paper](https://arxiv.org/pdf/2312.16044)]
+- (*KDD'25*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)]
 - (*arXiv 2023.08*) Llm powered sim-to-real transfer for traffic signal control [[paper](https://arxiv.org/pdf/2308.14284)]
 - (*arXiv 2023.06*) Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning [[paper](https://arxiv.org/pdf/2306.08094)]
 
