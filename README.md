@@ -349,11 +349,17 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*AAAI'20*) Learning Geo-Contextual Embeddings for Commuting Flow Prediction [[paper](https://doi.org/10.1609/aaai.v34i01.5425)]
 
 ### 5.2 Unimodal Adaptation
+#### Model fine-tuning
 - (*arXiv 2024.06*) Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation [[paper](https://arxiv.org/abs/2406.19888)]
+
+#### Prompt tuning
 - (*AAAI'23*) Heterogeneous Region Embedding with Prompt Learning [[paper](https://doi.org/10.1609/aaai.v37i4.25625)]
 
 ### 5.3 Cross-modal Adaptation
+#### Model fine-tuning
 - (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
+
+#### Prompt engineering
 - (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
 
 
