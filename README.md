@@ -96,8 +96,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [3.2 Unimodal Adaptation](#32-unimodal-adaptation)
       - [Prompt tuning](#prompt-tuning)
     - [3.3 Cross-modal Adaptation](#33-cross-modal-adaptation)
-      - [Prompt engineering](#prompt-engineering)
-      - [Model fine-tuning](#model-fine-tuning)
+      - [Prompt engineering](#prompt-engineering-ts)
+      - [Model fine-tuning](#model-fine-tuning-ts)
       - [Model reprogramming](#model-reprogramming)
   - [4. Trajectory-based Models](#4-trajectory-based-models)
     - [4.1 Unimodal Pre-training](#41-unimodal-pre-training)
@@ -255,7 +255,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 3.3 Cross-modal Adaptation
 #### Prompt engineering
-<a id="prompt-engineering-time-series"></a>
+<a id="prompt-engineering-ts"></a>
 - (*TKDE'22*) PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [[paper](https://ieeexplore.ieee.org/iel7/69/4358933/10356715.pdf)]
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
