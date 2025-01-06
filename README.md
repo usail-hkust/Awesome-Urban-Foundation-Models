@@ -14,9 +14,6 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 ## News 
-
-2025-01: We have updated the survey paper with the latest research works on Urban Foundation Models. The updated version can be found on [arXiv](https://arxiv.org/abs/2402.01749).
-
 🌟 2024-05: [Urban Foundation Models: A Survey](https://dl.acm.org/doi/10.1145/3637528.3671453) has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
 
 
@@ -100,6 +97,13 @@ An Awesome Collection of Urban Foundation Models (UFMs).
       - [Model fine-tuning](#model-fine-tuning-2)
     - [3.3 Cross-modal Adaptation](#33-cross-modal-adaptation)
       - [Prompt engineering](#prompt-engineering-2)
+  - [4. Geovector-based Models](#4-geovector-based-models)
+    - [4.1 Unimodal Pre-training](#41-unimodal-pre-training)
+      - [Point-based data](#point-based-data)
+      - [Polyline-based data](#polyline-based-data)
+      - [Polygon-based data](#polygon-based-data)
+    - [4.2 Unimodal Adaptation](#42-unimodal-adaptation)
+    - [4.3 Cross-modal Adaptation](#43-cross-modal-adaptation)
   - [4. Time Series-based Models](#4-time-series-based-models)
     - [4.1 Unimodal Pre-training](#41-unimodal-pre-training)
       - [Ordinary time series](#ordinary-time-series)
@@ -233,6 +237,33 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
 - (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
 - (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
+
+## 4. Geovector-based Models
+### 4.1 Unimodal Pre-training
+#### Point-based data
+- (*Applied Science'22*) GeoBERT: Pre-Training Geospatial Representation Learning on Point-of-Interest [[paper](https://www.mdpi.com/2076-3417/12/24/12942)]
+- (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482004)]
+- (*TKDE'21*) Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories [[paper](https://doi.org/10.1109/TKDE.2021.3057875)]
+- (*CIKM'24*) G2PTL: A Geography-Graph Pre-trained Model [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680023)]
+
+#### Polyline-based data
+- (*SIGSPATIAL'20*) Enabling Finer Grained Place Embeddings using Spatial Hierarchy from Human Mobility Trajectories [[paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422229)]
+- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)]
+- (*CIKM'22*) Jointly Contrastive Representation Learning on Road Network and Trajectory [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557370)]
+
+#### Polygone-based data
+- (*AAAI'20*) Learning Geo-Contextual Embeddings for Commuting Flow Prediction [[paper](https://doi.org/10.1609/aaai.v34i01.5425)]
+- (*arXiv 2024.05*) Learning Geospatial Region Embedding with Heterogeneous Graph [[paper](https://www.arxiv.org/abs/2405.14135)]
+- (*KDD'23*) Urban region representation learning with openstreetmap building footprints [[paper](https://dl.acm.org/doi/10.1145/3580305.3599538)]
+- (*arXiv 2024.08*) Urban Region Pre-training and Prompting: A Graph-based Approach [[paper](https://arxiv.org/abs/2408.05920)]
+
+### 4.2 Unimodal Adaptation
+- (*arXiv 2024.06*) Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation [[paper](https://arxiv.org/abs/2406.19888)]
+- (*AAAI'23*) Heterogeneous Region Embedding with Prompt Learning [[paper](https://doi.org/10.1609/aaai.v37i4.25625)]
+
+### 4.3 Cross-modal Adaptation
+- (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
+- (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
 
 ## 4. Time Series-based Models
 ### 4.1 Unimodal Pre-training
