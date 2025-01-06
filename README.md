@@ -115,12 +115,14 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [5.2 Unimodal Adaptation](#52-unimodal-adaptation)
     - [5.3 Cross-modal Adaptation](#53-cross-modal-adaptation)
   - [6. Multimodal-based Models](#5-multimodal-based-models)
-    - [6.1 Pre-training](#51-pre-training)
-    - [6.2 Adaptation](#52-adaptation)
+    - [6.1 Multimodal Pre-training](#51-pre-training)
+      - [Multimodal urban data](#multimodal-urban-data-4)
+    - [6.2 Multimodal Adaptation](#52-adaptation)
       - [Prompt engineering](#prompt-engineering-4)
       - [Model fine-tuning](#model-fine-tuning-4)
   - [7. Others](#6-others)
   - [8. Contributing](#7-contributing)
+
 
 
 ### Taxonomy
