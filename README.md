@@ -113,7 +113,11 @@ An Awesome Collection of Urban Foundation Models (UFMs).
       - [Polyline-based data](#polyline-based-data)
       - [Polygon-based data](#polygon-based-data)
     - [5.2 Unimodal Adaptation](#52-unimodal-adaptation)
+      - [Model fine-tuning](#model-fine-tuning-Geovector)
+      - [Prompt tuning](#prompt-tuning-Geovector)
     - [5.3 Cross-modal Adaptation](#53-cross-modal-adaptation)
+      - [Prompt engineering](#Prompt-engineering-Geovector)
+      - [Model fine-tuning](#Model-fine-tuning-Geovector)
   - [6. Multimodal-based Models](#6-multimodal-based-models)
     - [6.1 Multimodal Pre-training](#61-multimodal-pre-training)
       - [Multimodal urban data](#multimodal-urban-data)
@@ -356,11 +360,11 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*AAAI'23*) Heterogeneous Region Embedding with Prompt Learning [[paper](https://doi.org/10.1609/aaai.v37i4.25625)]
 
 ### 5.3 Cross-modal Adaptation
-#### Model fine-tuning
-- (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
-
 #### Prompt engineering
 - (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
+  
+#### Model fine-tuning
+- (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
 
 
 ## 6. Multimodal-based Models
