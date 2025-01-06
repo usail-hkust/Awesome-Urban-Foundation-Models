@@ -89,24 +89,24 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [2.2 Unimodal Adaptation](#22-unimodal-adaptation)
       - [Prompt engineering](#prompt-engineering-1)
       - [Model fine-tuning](#model-fine-tuning-1)
-  - [3. Trajectory-based Models](#3-trajectory-based-models)
-    - [3.1 Unimodal Pre-training](#31-unimodal-pre-training)
-      - [Road network trajectory](#road-network-trajectory)
-      - [Free space trajectory](#free-space-trajectory)
-    - [3.2 Unimodal Adaptation](#32-unimodal-adaptation)
-      - [Model fine-tuning](#model-fine-tuning-2)
-    - [3.3 Cross-modal Adaptation](#33-cross-modal-adaptation)
-      - [Prompt engineering](#prompt-engineering-2)
-  - [4. Time Series-based Models](#4-time-series-based-models)
-    - [4.1 Unimodal Pre-training](#41-unimodal-pre-training)
+  - [3. Time Series-based Models](#4-time-series-based-models)
+    - [3.1 Unimodal Pre-training](#41-unimodal-pre-training)
       - [Ordinary time series](#ordinary-time-series)
       - [Spatial-correlated time series](#spatial-correlated-time-series)
-    - [4.2 Unimodal Adaptation](#42-unimodal-adaptation)
+    - [3.2 Unimodal Adaptation](#42-unimodal-adaptation)
       - [Prompt tuning](#prompt-tuning)
-    - [4.3 Cross-modal Adaptation](#43-cross-modal-adaptation)
+    - [3.3 Cross-modal Adaptation](#43-cross-modal-adaptation)
       - [Prompt engineering](#prompt-engineering-3)
       - [Model fine-tuning](#model-fine-tuning-3)
       - [Model reprogramming](#model-reprogramming)
+  - [4. Trajectory-based Models](#3-trajectory-based-models)
+    - [4.1 Unimodal Pre-training](#31-unimodal-pre-training)
+      - [Road network trajectory](#road-network-trajectory)
+      - [Free space trajectory](#free-space-trajectory)
+    - [4.2 Unimodal Adaptation](#32-unimodal-adaptation)
+      - [Model fine-tuning](#model-fine-tuning-2)
+    - [4.3 Cross-modal Adaptation](#33-cross-modal-adaptation)
+      - [Prompt engineering](#prompt-engineering-2)
   - [5. Geovector-based Models](#5-geovector-based-models)
     - [5.1 Unimodal Pre-training](#51-unimodal-pre-training)
       - [Point-based data](#point-based-data)
@@ -114,15 +114,13 @@ An Awesome Collection of Urban Foundation Models (UFMs).
       - [Polygon-based data](#polygon-based-data)
     - [5.2 Unimodal Adaptation](#52-unimodal-adaptation)
     - [5.3 Cross-modal Adaptation](#53-cross-modal-adaptation)
-  - [5. Multimodal-based Models](#5-multimodal-based-models)
-    - [5.1 Pre-training](#51-pre-training)
-    - [5.2 Adaptation](#52-adaptation)
+  - [6. Multimodal-based Models](#5-multimodal-based-models)
+    - [6.1 Pre-training](#51-pre-training)
+    - [6.2 Adaptation](#52-adaptation)
       - [Prompt engineering](#prompt-engineering-4)
       - [Model fine-tuning](#model-fine-tuning-4)
-  - [6. Others](#6-others)
-    - [6.1 Unimodal Approaches](#61-unimodal-approaches)
-    - [6.2 Cross-modal Adaptation](#62-cross-modal-adaptation)
-  - [7. Contributing](#7-contributing)
+  - [7. Others](#6-others)
+  - [8. Contributing](#7-contributing)
 
 
 ### Taxonomy
@@ -139,12 +137,12 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 1.2 Unimodal Adaptation
 #### Prompt engineering
+- (*Urban Informatics'24*) Towards Human-AI Collaborative Urban Science Research Enabled by Pre-trained Large Language Models [[paper](https://arxiv.org/abs/2305.11418)]
+- (*ICLR'24*) GeoLLM: Extracting Geospatial Knowledge from Large Language Models [[paper](https://arxiv.org/abs/2310.06213)]
 - (*arXiv 2023.10*) Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning [[paper](https://arxiv.org/abs/2310.03249)]
 - (*arXiv 2023.05*) GPT4GEO: How a Language Model Sees the World's Geography [[paper](https://arxiv.org/abs/2306.00020)]
 - (*arXiv 2023.05*) On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence [[paper](https://arxiv.org/abs/2304.06798)]
 - (*arXiv 2023.05*) ChatGPT is on the Horizon: Could a Large Language Model be Suitable for Intelligent Traffic Safety Research and Applications? [[paper](https://arxiv.org/abs/2303.05382)]
-- (*Urban Informatics*) Towards Human-AI Collaborative Urban Science Research Enabled by Pre-trained Large Language Models [[paper](https://arxiv.org/abs/2305.11418)]
-- (*ICLR'24*) GeoLLM: Extracting Geospatial Knowledge from Large Language Models [[paper](https://arxiv.org/abs/2310.06213)]
 - (*GIScience'23*) Evaluating the Effectiveness of Large Language Models in Representing Textual Descriptions of Geometry and Spatial Relations [[paper](https://arxiv.org/abs/2307.03678)]
 - (*SIGSPATIAL'23*) Are Large Language Models Geospatially Knowledgeable? [[paper](https://dl.acm.org/doi/abs/10.1145/3589132.3625625)]
 - (*SIGSPATIAL'23*) Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam [[paper](https://dl.acm.org/doi/abs/10.1145/3615886.3627745)]
@@ -179,13 +177,14 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*TGRS'22*) Advancing Plain Vision Transformer Toward Remote Sensing Foundation Model [[paper](https://ieeexplore.ieee.org/abstract/document/9956816)]
 - (*TGRS'22*) RingMo: A Remote Sensing Foundation Model With Masked Image Modeling [[paper](https://ieeexplore.ieee.org/abstract/document/9844015)]
 
-#### Raster data
+#### Urban Raster data
 - (*arXiv 2024.05*) Aurora: A Foundation Model of the Atmosphere [[paper](https://arxiv.org/abs/2405.13063)]
 - (*arXiv 2023.04*) FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead [[paper](https://arxiv.org/abs/2304.02948)]
 - (*arXiv 2023.04*) W-MAE: Pre-trained Weather Model with Masked Autoencoder for Multi-variable Weather Forecasting [[paper](https://arxiv.org/abs/2304.08754)]
-- (*arXiv 2022.02*) FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators [[paper](https://arxiv.org/abs/2202.11214)]
+- (*Science'23*) Learning skillful medium-range global weather forecasting [[paper](https://www.science.org/doi/full/10.1126/science.adi2336)]
 - (*Nature'23*) Accurate Medium-range Global Weather Forecasting with 3D Neural Networks [[paper](https://www.nature.com/articles/s41586-023-06185-3)]
 - (*ICML'23*) ClimaX: A Foundation Model for Weather and Climate [[paper](https://icml.cc/virtual/2023/28654)]
+- (*arXiv 2022.02*) FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators [[paper](https://arxiv.org/abs/2202.11214)]
 
 ### 2.2 Unimodal Adaptation
 #### Prompt engineering
@@ -199,54 +198,15 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*TGRS'23*) RingMo-SAM: A Foundation Model for Segment Anything in Multimodal Remote-Sensing Images [[paper](https://ieeexplore.ieee.org/abstract/document/10315957)]
 - (*IJAEOG'22*) Migratable Urban Street Scene Sensing Method based on Vsion Language Pre-trained Model [[paper](https://www.sciencedirect.com/science/article/pii/S1569843222001807)]
 
-## 3. Trajectory-based Models
+## 3. Time Series-based Models
 ### 3.1 Unimodal Pre-training
-#### Road network trajectory
-- (*KDD'23*) Lightpath: Lightweight and scalable path representation learning [[paper](https://doi.org/10.1145/3580305.3599415)]
-- (*ICDM'23*) Self-supervised Pre-training for Robust and Generic Spatial-Temporal Representations [[paper](https://users.wpi.edu/~yli15/Includes/23_ICDM_MingzhiCR.pdf)]
-- (*TKDE'23*) Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding [[paper](https://doi.org/10.1109/TKDE.2023.3347513)]
-- (*ICDE'23*) Self-supervised trajectory representation learning with temporal regularities and travel semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
-- (*WWW'24*) More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://arxiv.org/abs/2402.16915v1)]
-- (*VLDBJ'22*) Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training [[paper](https://doi.org/10.1007/s00778-022-00748-y)]
-- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://doi.org/10.1145/3459637.3482293)]
-- (*IJCAI'21*) Unsupervised path representation learning with curriculum negative sampling [[paper](https://www.ijcai.org/proceedings/2021/0452.pdf)]
-- (*TIST'20*) Trembr: Exploring road networks for trajectory representation learning [[paper](https://doi.org/10.1145/3361741)]
-- (*ICDE'18*) Deep representation learning for trajectory similarity computation [[paper](https://doi.org/10.1109/ICDE.2018.00062)]
-- (*IJCNN'17*) Trajectory clustering via deep representation learning [[paper](https://doi.org/10.1109/IJCNN.2017.7966345)]
-- (*arXiv 2024.08*) TrajFM: A Vehicle Trajectory Foundation Model for Region and Task Transferability [[paper](https://arxiv.org/abs/2408.15251)]
-
-#### Free space trajectory
-- (*AAAI'23*) Contrastive pre-training with adversarial perturbations for check-in sequence representation learning [[paper](https://doi.org/10.1609/aaai.v37i4.25546)]
-- (*KBS'21*) Self-supervised human mobility learning for next location prediction and trajectory classification [[paper](https://doi.org/10.1016/j.knosys.2021.107214)]
-- (*AAAI'21*) Pre-training context and time aware location embeddings from spatial-temporal trajectories for user next location prediction [[paper](https://doi.org/10.1609/aaai.v35i5.16548)]
-- (*KDD'20*) Learning to simulate human mobility [[paper](https://doi.org/10.1145/3394486.3412862)]
-
-### 3.2 Unimodal Adaptation
-#### Model fine-tuning
-- (*ToW'23*) Pre-Training Across Different Cities for Next POI Recommendation [[paper](https://doi.org/10.1145/3605554)]
-- (*TIST'23*) Doing more with less: overcoming data scarcity for poi recommendation via cross-region transfer [[paper](https://doi.org/10.1145/3511711)]
-- (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
-
-### 3.3 Cross-modal Adaptation
-#### Prompt engineering
-- (*arXiv 2023.11*) Exploring Large Language Models for Human Mobility Prediction under Public Events [[paper](https://arxiv.org/abs/2311.17351)]
-- (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
-- (*arXiv 2023.10*) Gpt-driver: Learning to drive with gpt [[paper](https://arxiv.org/abs/2310.01415)]
-- (*arXiv 2023.10*) Languagempc: Large language models as decision makers for autonomous driving [[paper](https://arxiv.org/abs/2310.03026)]
-- (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
-- (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
-- (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
-- (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
-
-## 4. Time Series-based Models
-### 4.1 Unimodal Pre-training
 #### Ordinary time series
 - (*ICML'24*) A decoder-only foundation model for time-series forecasting [[paper](https://raw.githubusercontent.com/mlresearch/v235/main/assets/das24c/das24c.pdf)]
 - (*arXiv 2024.03*) UniTS: Building a Unified Time Series Model [[paper](https://arxiv.org/pdf/2403.00131.pdf)]
 - (*arXiv 2024.02*) Timer: Transformers for Time Series Analysis at Scale [[paper](https://arxiv.org/pdf/2402.02368.pdf)]
 - (*arXiv 2024.02*) Generative Pretrained Hierarchical Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2402.16516.pdf)]
 - (*arXiv 2024.02*) TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling [[paper](https://arxiv.org/pdf/2402.02475v1.pdf)]
--  (*arXiv 2024.01*) TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series [[paper](https://arxiv.org/pdf/2401.03955v3.pdf)]
+- (*arXiv 2024.01*) TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series [[paper](https://arxiv.org/pdf/2401.03955v3.pdf)]
 - (*arXiv 2024.01*) Himtm: Hierarchical multi-scale masked time series modeling for long-term forecasting [[paper](https://arxiv.org/pdf/2401.05012.pdf)]
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
@@ -282,7 +242,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*WWW'19*) Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313577)]
 - (*IJCAI'18*) Cross-City Transfer Learning for Deep Spatio-Temporal Prediction [[paper](https://arxiv.org/pdf/1802.00386)]
 
-### 4.2 Unimodal Adaptation
+### 3.2 Unimodal Adaptation
 #### Prompt tuning
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
@@ -291,7 +251,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*IJCAI'23*) Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data [[paper](https://arxiv.org/pdf/2301.09152)]
 
 
-### 4.3 Cross-modal Adaptation
+### 3.3 Cross-modal Adaptation
 #### Prompt engineering
 - (*TKDE'22*) PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [[paper](https://ieeexplore.ieee.org/iel7/69/4358933/10356715.pdf)]
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
@@ -313,44 +273,90 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*ICLR'24*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/pdf/2310.01728.pdf?trk=public_post_comment-text)]
 - (*arXiv 2023.08*) TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series [[paper](https://arxiv.org/pdf/2308.08241)]
 
+## 4. Trajectory-based Models
+### 4.1 Unimodal Pre-training
+#### Road network trajectory
+- (*arXiv 2024.08*) TrajFM: A Vehicle Trajectory Foundation Model for Region and Task Transferability [[paper](https://arxiv.org/abs/2408.15251)]
+- (*WWW'24*) More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://arxiv.org/abs/2402.16915v1)]
+- (*KDD'23*) Lightpath: Lightweight and scalable path representation learning [[paper](https://doi.org/10.1145/3580305.3599415)]
+- (*ICDM'23*) Self-supervised Pre-training for Robust and Generic Spatial-Temporal Representations [[paper](https://users.wpi.edu/~yli15/Includes/23_ICDM_MingzhiCR.pdf)]
+- (*TKDE'23*) Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding [[paper](https://doi.org/10.1109/TKDE.2023.3347513)]
+- (*ICDE'23*) Self-supervised trajectory representation learning with temporal regularities and travel semantics [[paper](https://doi.org/10.1109/ICDE55515.2023.00070)]
+- (*VLDBJ'22*) Unified route representation learning for multi-modal transportation recommendation with spatiotemporal pre-training [[paper](https://doi.org/10.1007/s00778-022-00748-y)]
+- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://doi.org/10.1145/3459637.3482293)]
+- (*IJCAI'21*) Unsupervised path representation learning with curriculum negative sampling [[paper](https://www.ijcai.org/proceedings/2021/0452.pdf)]
+- (*TIST'20*) Trembr: Exploring road networks for trajectory representation learning [[paper](https://doi.org/10.1145/3361741)]
+- (*ICDE'18*) Deep representation learning for trajectory similarity computation [[paper](https://doi.org/10.1109/ICDE.2018.00062)]
+- (*IJCNN'17*) Trajectory clustering via deep representation learning [[paper](https://doi.org/10.1109/IJCNN.2017.7966345)]
+
+#### Free space trajectory
+- (*AAAI'23*) Contrastive pre-training with adversarial perturbations for check-in sequence representation learning [[paper](https://doi.org/10.1609/aaai.v37i4.25546)]
+- (*KBS'21*) Self-supervised human mobility learning for next location prediction and trajectory classification [[paper](https://doi.org/10.1016/j.knosys.2021.107214)]
+- (*AAAI'21*) Pre-training context and time aware location embeddings from spatial-temporal trajectories for user next location prediction [[paper](https://doi.org/10.1609/aaai.v35i5.16548)]
+- (*KDD'20*) Learning to simulate human mobility [[paper](https://doi.org/10.1145/3394486.3412862)]
+
+### 4.2 Unimodal Adaptation
+#### Model fine-tuning
+- (*ToW'23*) Pre-Training Across Different Cities for Next POI Recommendation [[paper](https://doi.org/10.1145/3605554)]
+- (*TIST'23*) Doing more with less: overcoming data scarcity for poi recommendation via cross-region transfer [[paper](https://doi.org/10.1145/3511711)]
+- (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
+
+### 4.3 Cross-modal Adaptation
+#### Prompt engineering
+- (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
+- (*arXiv 2023.11*) Exploring Large Language Models for Human Mobility Prediction under Public Events [[paper](https://arxiv.org/abs/2311.17351)]
+- (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
+- (*arXiv 2023.10*) Gpt-driver: Learning to drive with gpt [[paper](https://arxiv.org/abs/2310.01415)]
+- (*arXiv 2023.10*) Languagempc: Large language models as decision makers for autonomous driving [[paper](https://arxiv.org/abs/2310.03026)]
+- (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
+- (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
+
+
+#### Model fine-tuning
+- (*TIV'24*) Traj-llm: A new exploration for empowering trajectory prediction with pre-trained large language models [[paper](https://ieeexplore.ieee.org/abstract/document/10574364)]
+- (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
+
+
 ## 5. Geovector-based Models
 ### 5.1 Unimodal Pre-training
 #### Point-based data
+- (*CIKM'24*) G2PTL: A Geography-Graph Pre-trained Model [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680023)]
 - (*Applied Science'22*) GeoBERT: Pre-Training Geospatial Representation Learning on Point-of-Interest [[paper](https://www.mdpi.com/2076-3417/12/24/12942)]
 - (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482004)]
 - (*TKDE'21*) Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories [[paper](https://doi.org/10.1109/TKDE.2021.3057875)]
-- (*CIKM'24*) G2PTL: A Geography-Graph Pre-trained Model [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680023)]
 
 #### Polyline-based data
-- (*SIGSPATIAL'20*) Enabling Finer Grained Place Embeddings using Spatial Hierarchy from Human Mobility Trajectories [[paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422229)]
-- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)]
 - (*CIKM'22*) Jointly Contrastive Representation Learning on Road Network and Trajectory [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557370)]
+- (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)]
+- (*SIGSPATIAL'20*) Enabling Finer Grained Place Embeddings using Spatial Hierarchy from Human Mobility Trajectories [[paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422229)]
 
 #### Polygone-based data
-- (*AAAI'20*) Learning Geo-Contextual Embeddings for Commuting Flow Prediction [[paper](https://doi.org/10.1609/aaai.v34i01.5425)]
+- (*arXiv 2024.08*) Urban Region Pre-training and Prompting: A Graph-based Approach [[paper](https://arxiv.org/abs/2408.05920)]
 - (*arXiv 2024.05*) Learning Geospatial Region Embedding with Heterogeneous Graph [[paper](https://www.arxiv.org/abs/2405.14135)]
 - (*KDD'23*) Urban region representation learning with openstreetmap building footprints [[paper](https://dl.acm.org/doi/10.1145/3580305.3599538)]
-- (*arXiv 2024.08*) Urban Region Pre-training and Prompting: A Graph-based Approach [[paper](https://arxiv.org/abs/2408.05920)]
+- (*AAAI'20*) Learning Geo-Contextual Embeddings for Commuting Flow Prediction [[paper](https://doi.org/10.1609/aaai.v34i01.5425)]
 
 ### 5.2 Unimodal Adaptation
 - (*arXiv 2024.06*) Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation [[paper](https://arxiv.org/abs/2406.19888)]
 - (*AAAI'23*) Heterogeneous Region Embedding with Prompt Learning [[paper](https://doi.org/10.1609/aaai.v37i4.25625)]
 
 ### 5.3 Cross-modal Adaptation
-- (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
 - (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
+- (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
 
 
 ## 5. Multimodal-based Models
-### 5.1 Pre-training
+### 5.1 Multimodal Pre-training
+#### Multimodal urban data
 - (*KDD'24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671992)]
 - (*WWW'24*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645378)]
 - (*TITS'23*) Parallel Transportation in TransVerse: From Foundation Models to DeCAST [[paper](https://ieeexplore.ieee.org/document/10260246)]
 - (*arXiv 2023.12*) AllSpark: A Multimodal Spatiotemporal General Model [[paper](https://arxiv.org/abs/2401.00546)]
 - (*arXiv 2023.10*) City Foundation Models for Learning General Purpose Representations from OpenStreetMap [[paper](https://arxiv.org/abs/2310.00583)]
 
-### 5.2 Adaptation
+### 5.2 Multimodal Adaptation
 #### Prompt engineering
+- (*arXiv 2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
 - (*arXiv 2023.07*) GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT [[paper](https://arxiv.org/abs/2307.07930)]
 
@@ -361,17 +367,11 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.12*) Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment [[paper](https://arxiv.org/abs/2312.11813)]
 
 ## 6. Others
-### 6.1 Unimodal Approaches
-- (*EDBT'23*) Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning [[paper](https://people.eng.unimelb.edu.au/jianzhongq/papers/EDBT2023_RoadNetworkEmbedding.pdf)]
-- (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482004)]
-
-### 6.2 Cross-modal Adaptation
-- (*KDD'25*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://arxiv.org/abs/2312.16044)]
-- (*arXiv 2023.08*) Llm powered sim-to-real transfer for traffic signal control [[paper](https://arxiv.org/pdf/2308.14284)]
-- (*arXiv 2023.06*) Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning [[paper](https://arxiv.org/pdf/2306.08094)]
-
-
-
+- (*AAAI'24*) Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27758)]
+- (*IJMLC'24*) Open-ti: Open traffic intelligence with augmented language model[[paper](https://link.springer.com/article/10.1007/s13042-024-02190-8)]
+- (*ITSC'23*) Building transportation foundation model via generative graph transformer[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10422572)]
+- (*ITSC'23*) Can chatgpt enable its? the case of mixed traffic control via reinforcement learning[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422410)]
+- (*ITSC'23*) Transworldng: Traffic simulation via foundation model[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422587)]
 
 ## 7. Contributing
 
