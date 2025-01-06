@@ -79,34 +79,34 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [1.1 Unimodal Pre-training](#11-unimodal-pre-training)
       - [Geo-text](#geo-text)
     - [1.2 Unimodal Adaptation](#12-unimodal-adaptation)
-      - [Prompt engineering](#prompt-engineering)
-      - [Model fine-tuning](#model-fine-tuning)
+      - [Prompt engineering](#prompt-engineering-language)
+      - [Model fine-tuning](#model-fine-tuning-language)
   - [2. Vision-based Models](#2-vision-based-models)
     - [2.1 Unimodal Pre-training](#21-unimodal-pre-training)
       - [On-site visual data](#on-site-visual-data)
       - [Remote sensing data](#remote-sensing-data)
       - [Urban Raster data](#urban-raster-data)
     - [2.2 Unimodal Adaptation](#22-unimodal-adaptation)
-      - [Prompt engineering](#prompt-engineering)
-      - [Model fine-tuning](#model-fine-tuning)
+      - [Prompt engineering](#prompt-engineering-vision)
+      - [Model fine-tuning](#model-fine-tuning-vision)
   - [3. Time Series-based Models](#3-time-series-based-models)
     - [3.1 Unimodal Pre-training](#31-unimodal-pre-training)
       - [Ordinary time series](#ordinary-time-series)
       - [Spatial-correlated time series](#spatial-correlated-time-series)
     - [3.2 Unimodal Adaptation](#32-unimodal-adaptation)
-      - [Prompt tuning](#prompt-tuning)
+      - [Prompt tuning](#prompt-tuning-ts)
     - [3.3 Cross-modal Adaptation](#33-cross-modal-adaptation)
       - [Prompt engineering](#prompt-engineering-ts)
       - [Model fine-tuning](#model-fine-tuning-ts)
-      - [Model reprogramming](#model-reprogramming)
+      - [Model reprogramming](#model-reprogramming-ts)
   - [4. Trajectory-based Models](#4-trajectory-based-models)
     - [4.1 Unimodal Pre-training](#41-unimodal-pre-training)
       - [Road network trajectory](#road-network-trajectory)
       - [Free space trajectory](#free-space-trajectory)
     - [4.2 Unimodal Adaptation](#42-unimodal-adaptation)
-      - [Model fine-tuning](#model-fine-tuning)
+      - [Model fine-tuning](#model-fine-tuning-trajectory-uni)
     - [4.3 Cross-modal Adaptation](#43-cross-modal-adaptation)
-      - [Prompt engineering](#prompt-engineering)
+      - [Prompt engineering](#prompt-engineering-trajectory-cross)
   - [5. Geovector-based Models](#5-geovector-based-models)
     - [5.1 Unimodal Pre-training](#51-unimodal-pre-training)
       - [Point-based data](#point-based-data)
@@ -118,8 +118,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [6.1 Multimodal Pre-training](#61-multimodal-pre-training)
       - [Multimodal urban data](#multimodal-urban-data)
     - [6.2 Multimodal Adaptation](#62-multimodal-adaptation)
-      - [Prompt engineering](#prompt-engineering)
-      - [Model fine-tuning](#model-fine-tuning)
+      - [Prompt engineering](#prompt-engineering-multimodal)
+      - [Model fine-tuning](#model-fine-tuning-multimodal)
   - [7. Others](#7-others)
   - [8. Contributing](#8-contributing)
 
@@ -139,6 +139,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 1.2 Unimodal Adaptation
 #### Prompt engineering
+<a id="prompt-engineering-language"></a>
 - (*Urban Informatics'24*) Towards Human-AI Collaborative Urban Science Research Enabled by Pre-trained Large Language Models [[paper](https://arxiv.org/abs/2305.11418)]
 - (*ICLR'24*) GeoLLM: Extracting Geospatial Knowledge from Large Language Models [[paper](https://arxiv.org/abs/2310.06213)]
 - (*arXiv 2023.10*) Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning [[paper](https://arxiv.org/abs/2310.03249)]
@@ -150,6 +151,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*SIGSPATIAL'23*) Towards Understanding the Geospatial Skills of ChatGPT: Taking a Geographic Information Systems (GIS) Exam [[paper](https://dl.acm.org/doi/abs/10.1145/3615886.3627745)]
 
 #### Model fine-tuning
+<a id="model-fine-tuning-language"></a>
 - (*arXiv 2024.6*) CityGPT: Empowering Urban Spatial Cognition of Large Language Models [[paper](https://arxiv.org/abs/2406.13948)]
 - (*arXiv 2024.6*) UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models [[paper](https://arxiv.org/abs/2406.12360)]
 - (*arXiv 2024.3*) LAMP: A Language Model on the Map [[paper](https://arxiv.org/abs/2403.09059)]
@@ -190,10 +192,12 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 2.2 Unimodal Adaptation
 #### Prompt engineering
+<a id="prompt-engineering-vision"></a>
 - (*TGRS'24*) RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model [[paper](https://ieeexplore.ieee.org/abstract/document/10409216)]
 - (*NeurIPS'23*) SAMRS: Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model [[paper](https://arxiv.org/abs/2305.02034)]
 
 #### Model fine-tuning
+<a id="model-fine-tuning-vision"></a>
 - (*arXiv 2023.11*) GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure [[paper](https://arxiv.org/abs/2311.11319)]
 - (*arXiv 2023.02*) Learning Generalized Zero-Shot Learners for Open-Domain Image Geolocalization [[paper](https://arxiv.org/abs/2302.00275)]
 - (*NeurIPS'23*) GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b57aaddf85ab01a2445a79c9edc1f4b-Abstract-Conference.html)]
@@ -246,6 +250,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 3.2 Unimodal Adaptation
 #### Prompt tuning
+<a id="prompt-tuning-ts"></a>
 - (*arXiv 2023.12*) Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [[paper](https://arxiv.org/pdf/2312.12276)]
 - (*arXiv 2023.11*) PT-Tuning: Bridging the Gap between Time Series Masked Reconstruction and Forecasting via Prompt Token Tuning [[paper](https://arxiv.org/pdf/2311.03768)]
 - (*arXiv 2023.05*) Spatial-temporal Prompt Learning for Federated Weather Forecasting [[paper](https://arxiv.org/pdf/2305.14244)]
@@ -260,6 +265,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) Large Language Models Are Zero-Shot Time Series Forecasters [[paper](https://arxiv.org/pdf/2310.07820.pdf?trk=public_post_comment-text)]
 
 #### Model fine-tuning
+<a id="model-fine-tuning-ts"></a>
 - (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
 - (*ICLR'24*) TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.04948)]
 - (*arXiv 2024.03*) TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [[paper](https://arxiv.org/pdf/2403.02221v1.pdf)]
@@ -271,6 +277,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'23*) One Fits All: Power General Time Series Analysis by Pretrained LM [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/86c17de05579cde52025f9984e6e2ebb-Abstract-Conference.html)]
 
 #### Model reprogramming
+<a id="model-reprogramming-ts"></a>
 - (*arXiv 2024.08*) Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming [[paper](https://arxiv.org/pdf/2408.14505)]
 - (*KDD'24*) UrbanGPT: Spatio-Temporal Large Language Models [[paper](https://arxiv.org/pdf/2403.00813)]
 - (*ICLR'24*) Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [[paper](https://arxiv.org/pdf/2310.01728.pdf?trk=public_post_comment-text)]
@@ -300,12 +307,14 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 4.2 Unimodal Adaptation
 #### Model fine-tuning
+<a id="model-fine-tuning-trajectory-uni"></a>
 - (*ToW'23*) Pre-Training Across Different Cities for Next POI Recommendation [[paper](https://doi.org/10.1145/3605554)]
 - (*TIST'23*) Doing more with less: overcoming data scarcity for poi recommendation via cross-region transfer [[paper](https://doi.org/10.1145/3511711)]
 - (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
 
 ### 4.3 Cross-modal Adaptation
 #### Prompt engineering
+<a id="prompt-engineering-trajectory-cross"></a>
 - (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
 - (*arXiv 2023.11*) Exploring Large Language Models for Human Mobility Prediction under Public Events [[paper](https://arxiv.org/abs/2311.17351)]
 - (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
@@ -314,8 +323,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.09*) Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving [[paper](https://arxiv.org/abs/2309.05282)]
 - (*arXiv 2023.08*) Where would i go next? large language models as human mobility predictors [[paper](https://arxiv.org/abs/2308.15197)]
 
-
 #### Model fine-tuning
+<a id="model-fine-tuning-trajectory-cross"></a>
 - (*TIV'24*) Traj-llm: A new exploration for empowering trajectory prediction with pre-trained large language models [[paper](https://ieeexplore.ieee.org/abstract/document/10574364)]
 - (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
 
@@ -359,11 +368,13 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### 6.2 Multimodal Adaptation
 #### Prompt engineering
+<a id="prompt-engineering-multimodal"></a>
 - (*arXiv 2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
 - (*arXiv 2023.07*) GeoGPT: Understanding and Processing Geospatial Tasks through An Autonomous GPT [[paper](https://arxiv.org/abs/2307.07930)]
 
 #### Model fine-tuning
+<a id="model-fine-tuning-multimodal"></a>
 - (*ICML'24*) GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model [[paper](https://arxiv.org/abs/2406.18572)]
 - (*AAAI'24*) VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View [[paper](https://arxiv.org/abs/2307.06082)]
 - (*arXiv 2024.02*) TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation [[paper](https://arxiv.org/abs/2402.07233)]
