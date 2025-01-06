@@ -334,36 +334,47 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 ## 5. Geovector-based Models
+<a id="5-geovector-based-models"></a>
 ### 5.1 Unimodal Pre-training
+<a id="51-unimodal-pre-training"></a>
 #### Point-based data
+<a id="point-based-data"></a>
 - (*CIKM'24*) G2PTL: A Geography-Graph Pre-trained Model [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680023)]
 - (*Applied Science'22*) GeoBERT: Pre-Training Geospatial Representation Learning on Point-of-Interest [[paper](https://www.mdpi.com/2076-3417/12/24/12942)]
 - (*CIKM'21*) GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482004)]
 - (*TKDE'21*) Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories [[paper](https://doi.org/10.1109/TKDE.2021.3057875)]
 
 #### Polyline-based data
+<a id="polyline-based-data"></a>
 - (*CIKM'22*) Jointly Contrastive Representation Learning on Road Network and Trajectory [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557370)]
 - (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)]
 - (*SIGSPATIAL'20*) Enabling Finer Grained Place Embeddings using Spatial Hierarchy from Human Mobility Trajectories [[paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422229)]
 
 #### Polygon-based data
+<a id="polygon-based-data"></a>
 - (*arXiv 2024.08*) Urban Region Pre-training and Prompting: A Graph-based Approach [[paper](https://arxiv.org/abs/2408.05920)]
 - (*arXiv 2024.05*) Learning Geospatial Region Embedding with Heterogeneous Graph [[paper](https://www.arxiv.org/abs/2405.14135)]
 - (*KDD'23*) Urban region representation learning with openstreetmap building footprints [[paper](https://dl.acm.org/doi/10.1145/3580305.3599538)]
 - (*AAAI'20*) Learning Geo-Contextual Embeddings for Commuting Flow Prediction [[paper](https://doi.org/10.1609/aaai.v34i01.5425)]
 
 ### 5.2 Unimodal Adaptation
+<a id="52-unimodal-adaptation"></a>
 #### Model fine-tuning
+<a id="model-fine-tuning-Geovector"></a>
 - (*arXiv 2024.06*) Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation [[paper](https://arxiv.org/abs/2406.19888)]
 
 #### Prompt tuning
+<a id="prompt-tuning-Geovector"></a>
 - (*AAAI'23*) Heterogeneous Region Embedding with Prompt Learning [[paper](https://doi.org/10.1609/aaai.v37i4.25625)]
 
 ### 5.3 Cross-modal Adaptation
+<a id="53-cross-modal-adaptation"></a>
 #### Prompt engineering
+<a id="Prompt-engineering-Geovector"></a>
 - (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
   
 #### Model fine-tuning
+<a id="Model-fine-tuning-Geovector"></a>
 - (*EMNLP'24*) Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching [[paper](https://doi.org/10.18653/v1/2024.emnlp-industry.58)]
 
 
