@@ -347,8 +347,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*Eval4NLP'23*) Zero-shot Probing of Pretrained Language Models for Geography Knowledge [[paper](https://doi.org/10.18653/v1/2023.eval4nlp-1.5)]
 
 
-## 5. Multimodal-based Models
-### 5.1 Multimodal Pre-training
+## 6. Multimodal-based Models
+### 6.1 Multimodal Pre-training
 #### Multimodal urban data
 - (*KDD'24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671992)]
 - (*WWW'24*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645378)]
@@ -356,7 +356,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2023.12*) AllSpark: A Multimodal Spatiotemporal General Model [[paper](https://arxiv.org/abs/2401.00546)]
 - (*arXiv 2023.10*) City Foundation Models for Learning General Purpose Representations from OpenStreetMap [[paper](https://arxiv.org/abs/2310.00583)]
 
-### 5.2 Multimodal Adaptation
+### 6.2 Multimodal Adaptation
 #### Prompt engineering
 - (*arXiv 2024.02*) Large Language Model for Participatory Urban Planning [[paper](https://arxiv.org/abs/2402.17161)]
 - (*arXiv 2023.09*) TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models [[paper](https://arxiv.org/abs/2309.06719)]
@@ -368,14 +368,14 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*arXiv 2024.02*) TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation [[paper](https://arxiv.org/abs/2402.07233)]
 - (*arXiv 2023.12*) Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment [[paper](https://arxiv.org/abs/2312.11813)]
 
-## 6. Others
+## 7. Others
 - (*AAAI'24*) Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27758)]
 - (*IJMLC'24*) Open-ti: Open traffic intelligence with augmented language model[[paper](https://link.springer.com/article/10.1007/s13042-024-02190-8)]
 - (*ITSC'23*) Building transportation foundation model via generative graph transformer[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10422572)]
 - (*ITSC'23*) Can chatgpt enable its? the case of mixed traffic control via reinforcement learning[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422410)]
 - (*ITSC'23*) Transworldng: Traffic simulation via foundation model[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422587)]
 
-## 7. Contributing
+## 8. Contributing
 
 👍 Contributions to this repository are welcome! 
 
