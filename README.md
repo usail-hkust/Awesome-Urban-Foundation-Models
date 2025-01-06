@@ -115,9 +115,9 @@ An Awesome Collection of Urban Foundation Models (UFMs).
     - [5.2 Unimodal Adaptation](#52-unimodal-adaptation)
     - [5.3 Cross-modal Adaptation](#53-cross-modal-adaptation)
   - [6. Multimodal-based Models](#6-multimodal-based-models)
-    - [6.1 Multimodal Pre-training](#61-pre-training)
+    - [6.1 Multimodal Pre-training](#61-multimodal-pre-training)
       - [Multimodal urban data](#multimodal-urban-data)
-    - [6.2 Multimodal Adaptation](#62-adaptation)
+    - [6.2 Multimodal Adaptation](#62-multimodal-adaptation)
       - [Prompt engineering](#prompt-engineering)
       - [Model fine-tuning](#model-fine-tuning)
   - [7. Others](#7-others)
@@ -332,7 +332,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*CIKM'21*) Robust road network representation learning: When traffic patterns meet traveling semantics [[paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)]
 - (*SIGSPATIAL'20*) Enabling Finer Grained Place Embeddings using Spatial Hierarchy from Human Mobility Trajectories [[paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422229)]
 
-#### Polygone-based data
+#### Polygon-based data
 - (*arXiv 2024.08*) Urban Region Pre-training and Prompting: A Graph-based Approach [[paper](https://arxiv.org/abs/2408.05920)]
 - (*arXiv 2024.05*) Learning Geospatial Region Embedding with Heterogeneous Graph [[paper](https://www.arxiv.org/abs/2405.14135)]
 - (*KDD'23*) Urban region representation learning with openstreetmap building footprints [[paper](https://dl.acm.org/doi/10.1145/3580305.3599538)]
