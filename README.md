@@ -14,6 +14,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 
 ## News  🎉
+<a id="news"></a>
 🌟 2025-01: We update a significantly extended version in [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749), where we formally define and conceptualize Urban General Intelligence; propose a forward-looking general framework for the development of versatile UFMs; integrate the up-to-date literature on UFMs, adding a new section on geovector-based UFMs and several subsections, etc.
 
 🌟 2024-05: [Urban Foundation Models: A Survey](https://dl.acm.org/doi/10.1145/3637528.3671453) has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
@@ -74,7 +75,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
   - [Urban Foundation Models (UFMs)](#urban-foundation-models-ufms)
   - [Survey Paper](#survey-paper)
       - [\[KDD'24 Version\]](#kdd24-version)
-      - [\[arXiv Version\]](#arxiv-version)
+      - [\[Extended Version\]](#extended-version)
   - [Outline](#outline)
     - [Taxonomy](#taxonomy)
   - [1. Language-based Models](#1-language-based-models)
