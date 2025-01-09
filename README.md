@@ -13,7 +13,9 @@
 An Awesome Collection of Urban Foundation Models (UFMs).
 
 
-## News 
+## News  🎉
+🌟 2025-01: We update a significantly extended version in [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749), where we formally define and conceptualize Urban General Intelligence; propose a forward-looking general framework for the development of versatile UFMs; integrate the up-to-date literature on UFMs, adding a new section on geovector-based UFMs and several subsections, etc.
+
 🌟 2024-05: [Urban Foundation Models: A Survey](https://dl.acm.org/doi/10.1145/3637528.3671453) has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
 
 
@@ -38,7 +40,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 #### [arXiv Version] 
 [**Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models**](https://arxiv.org/abs/2402.01749)  
   
-**Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
+**Authors**: [Weijia Zhang](https://scholar.google.com/citations?user=lSi3CIoAAAAJ&hl=en), [Jindong Han](https://scholar.google.com/citations?user=e9lFam0AAAAJ&hl=en), [Zhao Xu](https://xzbill.top/zhaoxu/), [Hang Ni](https://scholar.google.com/citations?user=2jk7gKYAAAAJ&hl=en), [Tengfei Lyu](https://raymondhliu.github.io/), [Hao Liu](https://raymondhliu.github.io/), [Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ&hl=en)
 
 🌟 If you find this resource helpful, please consider starring this repository and citing our survey paper:
 
@@ -131,8 +133,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 ### Taxonomy
 
-<!-- ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy.jpg) -->
-<img src="./figs/taxonomy.jpg" style="width:80%;">
+<!-- ![A data-centric taxonomy for existing UFMs-related works based on the types of urban data modalities.](./figs/taxonomy-extended.png) -->
+<img src="./figs/taxonomy-extended.png" style="width:100%;">
 
 
 ## 1. Language-based Models
