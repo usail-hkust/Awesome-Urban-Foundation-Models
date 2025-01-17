@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56ecf200-9030-47d5-94a4-5717e593ee8f)# Awesome-Urban-Foundation-Models
+# Awesome-Urban-Foundation-Models
 
 <p align="center">
 
