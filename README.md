@@ -19,7 +19,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 🌟 2024-05: [Urban Foundation Models: A Survey](https://dl.acm.org/doi/10.1145/3637528.3671453) has been accepted as a Tutorial Track Paper at KDD'24 and will be published in the conference proceedings. Additionally, we will host a tutorial on Urban Foundation Models at the KDD'24 conference. More details can be found on the [Tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial).
 
 
-🌟 2024-02: This paper is spotlighted by the influential AI media [新智元](https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ).
+🌟 2024-02: This paper is spotlighted by the highly influential AI media [新智元](https://mp.weixin.qq.com/s/cPvYmvPHlBr3l2S5sj-7pQ).
 
 
 ## Urban Foundation Models (UFMs)
