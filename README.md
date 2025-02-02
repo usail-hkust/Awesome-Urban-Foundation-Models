@@ -296,6 +296,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ## 4. Trajectory-based Models
 ### 4.1 Unimodal Pre-training
 #### Road network trajectory
+- (*arXiv 2024.11*) UniTraj: Universal Human Trajectory Modeling from Billion-Scale Worldwide Traces [[paper](https://arxiv.org/pdf/2411.03859)]
 - (*arXiv 2024.08*) TrajFM: A Vehicle Trajectory Foundation Model for Region and Task Transferability [[paper](https://arxiv.org/abs/2408.15251)]
 - (*WWW'24*) More Than Routing: Joint GPS and Route Modeling for Refine Trajectory Representation Learning [[paper](https://arxiv.org/abs/2402.16915v1)]
 - (*KDD'23*) Lightpath: Lightweight and scalable path representation learning [[paper](https://doi.org/10.1145/3580305.3599415)]
