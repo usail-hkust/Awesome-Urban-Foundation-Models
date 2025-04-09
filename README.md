@@ -161,6 +161,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 <a id="model-fine-tuning-language"></a>
 #### Model fine-tuning
+- (*KDD'25*) LLMLight: Large Language Models as Traffic Signal Control Agents [[paper](https://dl.acm.org/doi/10.1145/3690624.3709379)]
 - (*arXiv 2024.6*) CityGPT: Empowering Urban Spatial Cognition of Large Language Models [[paper](https://arxiv.org/abs/2406.13948)]
 - (*arXiv 2024.6*) UrbanLLM: Autonomous Urban Activity Planning and Management with Large Language Models [[paper](https://arxiv.org/abs/2406.12360)]
 - (*arXiv 2024.3*) LAMP: A Language Model on the Map [[paper](https://arxiv.org/abs/2403.09059)]
