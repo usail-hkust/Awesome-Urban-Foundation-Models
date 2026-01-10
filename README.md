@@ -246,6 +246,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 - (*NeurIPS'19*) Unsupervised Scalable Representation Learning for Multivariate Time Series [[paper](https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)]
 
 #### Spatial-correlated time series
+- (*VLDB'25*) Scalable Pre-Training of Compact Urban Spatio-Temporal Predictive Models on Large-Scale Multi-Domain Data [[paper](https://dl.acm.org/doi/abs/10.14778/3734839.3734851)]
 - (*KDD'24*) UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction [[paper](https://arxiv.org/abs/2402.11838)]
 - (*NeurIPS'23*) GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks [[paper](https://arxiv.org/pdf/2311.04245)]
 - (*CIKM'23*) Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614958)]
@@ -276,7 +277,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 <a id="model-fine-tuning-ts"></a>
 #### Model fine-tuning
-- (*arXiv 2024.02*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
+- (*AAAI'25*) Std-plm: Understanding both spatial and temporal properties of spatial-temporal data with plm [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33286)]
+- (*NeurIPS'24*) AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper](https://arxiv.org/pdf/2402.02370.pdf)]
 - (*ICLR'24*) TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [[paper](https://arxiv.org/pdf/2310.04948)]
 - (*arXiv 2024.03*) TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [[paper](https://arxiv.org/pdf/2403.02221v1.pdf)]
 - (*arXiv 2024.01*) How can large language models understand spatial-temporal data? [[paper](https://arxiv.org/pdf/2401.14192v1.pdf)]
@@ -320,6 +322,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ### 4.2 Unimodal Adaptation
 <a id="model-fine-tuning-trajectory-uni"></a>
 #### Model fine-tuning
+- (*NeurIPS'25*) TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability [[paper](https://arxiv.org/abs/2505.12672)]
+- (*ICDE'25*) Adamove: Efficient test-time adaptation for human mobility prediction [[paper](https://ieeexplore.ieee.org/abstract/document/11113062)]
 - (*ToW'23*) Pre-Training Across Different Cities for Next POI Recommendation [[paper](https://doi.org/10.1145/3605554)]
 - (*TIST'23*) Doing more with less: overcoming data scarcity for poi recommendation via cross-region transfer [[paper](https://doi.org/10.1145/3511711)]
 - (*CIKM'21*) Region invariant normalizing flows for mobility transfer [[paper](https://doi.org/10.1145/3459637.3482169)]
@@ -327,6 +331,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ### 4.3 Cross-modal Adaptation
 <a id="prompt-engineering-trajectory-cross"></a>
 #### Prompt engineering
+- (*IJCAI'25*) TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories [[paper](https://arxiv.org/abs/2405.12459)]
 - (*arXiv 2024.03*) DrPlanner: Diagnosis and Repair of Motion Planners Using Large Language Models [[paper](https://arxiv.org/abs/2403.07470)]
 - (*arXiv 2023.11*) Exploring Large Language Models for Human Mobility Prediction under Public Events [[paper](https://arxiv.org/abs/2311.17351)]
 - (*arXiv 2023.10*) Large Language Models for Spatial Trajectory Patterns Mining [[paper](https://arxiv.org/abs/2310.04942)]
@@ -338,6 +343,8 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 
 <a id="model-fine-tuning-trajectory-cross"></a>
 #### Model fine-tuning
+- (*NeurIPS'25*) PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models [[paper](https://arxiv.org/abs/2410.14281)]
+- (*NeurIPS'24*) Mobility-llm: Learning visiting intentions and travel preference from human mobility data with large language models [[paper](https://arxiv.org/abs/2411.00823?)]
 - (*TIV'24*) Traj-llm: A new exploration for empowering trajectory prediction with pre-trained large language models [[paper](https://ieeexplore.ieee.org/abstract/document/10574364)]
 - (*SIGSPATIAL'22*) Leveraging language foundation models for human mobility forecasting [[paper](https://doi.org/10.1145/3557915.3561026)]
 
