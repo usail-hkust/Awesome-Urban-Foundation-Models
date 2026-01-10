@@ -397,6 +397,7 @@ An Awesome Collection of Urban Foundation Models (UFMs).
 ## 6. Multimodal-based Models
 ### 6.1 Multimodal Pre-training
 #### Multimodal urban data
+- (*ICDE'25*) BIGCity: A universal spatiotemporal model for unified trajectory and traffic state data analysis [[paper](https://ieeexplore.ieee.org/abstract/document/11113134)]
 - (*KDD'24*) ReFound: Crafting a Foundation Model for Urban Region Understanding upon Language and Visual Foundations [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671992)]
 - (*WWW'24*) UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645378)]
 - (*TITS'23*) Parallel Transportation in TransVerse: From Foundation Models to DeCAST [[paper](https://ieeexplore.ieee.org/document/10260246)]
